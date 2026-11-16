@@ -1,4 +1,4 @@
-"""Apply the curated recommendation families to gallery and detail data."""
+"""Sync recommendation families and source regions used by gallery sorting."""
 from pathlib import Path
 import json,re
 ROOT=Path(__file__).resolve().parents[1]
@@ -6,6 +6,9 @@ p=ROOT/'index.html';html=p.read_text(encoding='utf-8');match=re.search(r'<script
 if not match:raise ValueError('Gallery data is missing')
 gallery=json.loads(match[1]);details=json.loads((ROOT/'data/monsters.json').read_text(encoding='utf-8'));families=json.loads((ROOT/'data/sort-families.json').read_text(encoding='utf-8'));ids={m['id'] for m in gallery}
 if ids!={m['id'] for m in details}:raise ValueError('Gallery and detail rosters must match')
+details_by_id={m['id']:m for m in details}
+for monster in gallery:
+ monster['regions']=details_by_id[monster['id']].get('regions',[])
 owners={};family_ids=set()
 for family in families:
  if family['id'] in family_ids:raise ValueError('Duplicate family ID')
