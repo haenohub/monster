@@ -7167,7 +7167,7 @@
     "level": 20,
     "titles": [
       "포유류",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/2300100.png",
     "imageWidth": 46,
@@ -10783,8 +10783,7 @@
     "name": "바투",
     "level": 23,
     "titles": [
-      "오물",
-      "날개"
+      "오물"
     ],
     "imagePath": "assets/monsters/9420506.png",
     "imageWidth": 175,
@@ -12930,7 +12929,7 @@
     "level": 25,
     "titles": [
       "새",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/9400000.png",
     "imageWidth": 65,
@@ -13257,7 +13256,7 @@
     "level": 25,
     "titles": [
       "벌레",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/9400540.png",
     "imageWidth": 58,
@@ -18773,7 +18772,7 @@
     "titles": [
       "새",
       "장난감",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/3230307.png",
     "imageWidth": 55,
@@ -23479,7 +23478,8 @@
     "name": "티키",
     "level": 34,
     "titles": [
-      "장난감"
+      "장난감",
+      "시계"
     ],
     "imagePath": "assets/monsters/3210207.png",
     "imageWidth": 37,
@@ -27114,7 +27114,8 @@
     "level": 36,
     "titles": [
       "기계",
-      "장난감"
+      "장난감",
+      "비행"
     ],
     "imagePath": "assets/monsters/3210206.png",
     "imageWidth": 55,
@@ -28587,7 +28588,8 @@
     "level": 37,
     "titles": [
       "기계",
-      "장난감"
+      "장난감",
+      "비행"
     ],
     "imagePath": "assets/monsters/3230303.png",
     "imageWidth": 58,
@@ -29954,7 +29956,8 @@
     "level": 38,
     "titles": [
       "기계",
-      "장난감"
+      "장난감",
+      "비행"
     ],
     "imagePath": "assets/monsters/3230304.png",
     "imageWidth": 59,
@@ -32108,7 +32111,7 @@
     "titles": [
       "새",
       "장난감",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/3230308.png",
     "imageWidth": 55,
@@ -34890,7 +34893,8 @@
     "name": "플라이아이",
     "level": 41,
     "titles": [
-      "외눈"
+      "외눈",
+      "비행"
     ],
     "imagePath": "assets/monsters/4230107.png",
     "imageWidth": 38,
@@ -49259,7 +49263,7 @@
     "titles": [
       "새",
       "그리핀",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/9400544.png",
     "imageWidth": 142,
@@ -49722,7 +49726,6 @@
     "name": "티포 레드",
     "level": 50,
     "titles": [
-      "기계",
       "오물"
     ],
     "imagePath": "assets/monsters/9420504.png",
@@ -52252,7 +52255,6 @@
     "name": "티포 블루",
     "level": 53,
     "titles": [
-      "기계",
       "오물"
     ],
     "imagePath": "assets/monsters/9420505.png",
@@ -54278,7 +54280,8 @@
     "name": "멜러디",
     "level": 55,
     "titles": [
-      "사람"
+      "사람",
+      "비행"
     ],
     "imagePath": "assets/monsters/5300100.png",
     "imageWidth": 106,
@@ -60283,7 +60286,8 @@
     "name": "망령",
     "level": 60,
     "titles": [
-      "유령"
+      "유령",
+      "비행"
     ],
     "imagePath": "assets/monsters/9400003.png",
     "imageWidth": 41,
@@ -62091,7 +62095,6 @@
     "name": "로데오",
     "level": 61,
     "titles": [
-      "기계",
       "오물"
     ],
     "imagePath": "assets/monsters/9420533.png",
@@ -66761,7 +66764,6 @@
     "name": "챠머",
     "level": 65,
     "titles": [
-      "기계",
       "오물"
     ],
     "imagePath": "assets/monsters/9420534.png",
@@ -70245,7 +70247,8 @@
     "name": "노란 왕도깨비",
     "level": 70,
     "titles": [
-      "도깨비"
+      "도깨비",
+      "가면"
     ],
     "imagePath": "assets/monsters/7130400.png",
     "imageWidth": 129,
@@ -70441,7 +70444,8 @@
     "name": "파란 왕도깨비",
     "level": 70,
     "titles": [
-      "도깨비"
+      "도깨비",
+      "가면"
     ],
     "imagePath": "assets/monsters/7130401.png",
     "imageWidth": 129,
@@ -70643,7 +70647,8 @@
     "name": "초록 왕도깨비",
     "level": 70,
     "titles": [
-      "도깨비"
+      "도깨비",
+      "가면"
     ],
     "imagePath": "assets/monsters/7130402.png",
     "imageWidth": 129,
@@ -71998,7 +72003,8 @@
     "name": "윈드레이더",
     "level": 70,
     "titles": [
-      "사람"
+      "사람",
+      "가면"
     ],
     "imagePath": "assets/monsters/9400576.png",
     "imageWidth": 80,
@@ -75955,7 +75961,6 @@
     "name": "야바 두",
     "level": 75,
     "titles": [
-      "기계",
       "오물"
     ],
     "imagePath": "assets/monsters/9420537.png",
@@ -79355,8 +79360,7 @@
     "name": "시간의 눈",
     "level": 80,
     "titles": [
-      "사물",
-      "날개"
+      "사물"
     ],
     "imagePath": "assets/monsters/8200000.png",
     "imageWidth": 52,
@@ -80210,7 +80214,8 @@
     "name": "스톰브레이커",
     "level": 80,
     "titles": [
-      "사람"
+      "사람",
+      "갑옷"
     ],
     "imagePath": "assets/monsters/9400581.png",
     "imageWidth": 130,
@@ -86441,7 +86446,8 @@
     "name": "파이어브랜드",
     "level": 90,
     "titles": [
-      "사람"
+      "사람",
+      "가면"
     ],
     "imagePath": "assets/monsters/9400577.png",
     "imageWidth": 76,
@@ -89707,7 +89713,8 @@
     "name": "엘더레이스",
     "level": 95,
     "titles": [
-      "유령"
+      "유령",
+      "비행"
     ],
     "imagePath": "assets/monsters/9400580.png",
     "imageWidth": 73,
@@ -91622,7 +91629,8 @@
     "name": "크림슨 발록",
     "level": 100,
     "titles": [
-      "악마"
+      "악마",
+      "비행"
     ],
     "imagePath": "assets/monsters/8150000.png",
     "imageWidth": 161,
@@ -92562,7 +92570,8 @@
     "name": "티폰",
     "level": 100,
     "titles": [
-      "그리핀"
+      "그리핀",
+      "비행"
     ],
     "imagePath": "assets/monsters/9400574.png",
     "imageWidth": 117,
@@ -92644,7 +92653,8 @@
     "level": 100,
     "titles": [
       "사람",
-      "악마"
+      "악마",
+      "가면"
     ],
     "imagePath": "assets/monsters/9400579.png",
     "imageWidth": 93,
@@ -94356,7 +94366,7 @@
     "level": 103,
     "titles": [
       "새",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/8300000.png",
     "imageWidth": 89,
@@ -94402,7 +94412,7 @@
     "level": 103,
     "titles": [
       "새",
-      "날개"
+      "비행"
     ],
     "imagePath": "assets/monsters/8300001.png",
     "imageWidth": 89,
@@ -101399,7 +101409,8 @@
     "name": "플라잉 그리프",
     "level": 120,
     "titles": [
-      "그리핀"
+      "그리핀",
+      "비행"
     ],
     "imagePath": "assets/monsters/8300005.png",
     "imageWidth": 180,
@@ -101588,7 +101599,8 @@
     "name": "갑주무사",
     "level": 120,
     "titles": [
-      "사람"
+      "사람",
+      "갑옷"
     ],
     "imagePath": "assets/monsters/9400405.png",
     "imageWidth": 121,
@@ -101736,7 +101748,8 @@
     "name": "크림슨 가디언",
     "level": 120,
     "titles": [
-      "악마"
+      "악마",
+      "가면"
     ],
     "imagePath": "assets/monsters/9400582.png",
     "imageWidth": 222,
@@ -101877,7 +101890,8 @@
     "name": "나그롬",
     "level": 120,
     "titles": [
-      "해적"
+      "해적",
+      "사람"
     ],
     "imagePath": "assets/monsters/9400589.png",
     "imageWidth": 108,
@@ -110664,7 +110678,7 @@
     "level": 175,
     "titles": [
       "사람",
-      "날개"
+      "천사"
     ],
     "imagePath": "assets/monsters/9400376.png",
     "imageWidth": 236,
@@ -110703,126 +110717,6 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400376",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:08.157354+00:00"
-  },
-  {
-    "id": "9400294",
-    "name": "듀나스",
-    "level": 176,
-    "titles": [
-      "사람"
-    ],
-    "imagePath": "assets/monsters/9400294.png",
-    "imageWidth": 174,
-    "imageHeight": 133,
-    "type": "Unknown",
-    "description": "",
-    "stats": {
-      "HP": "250.0M",
-      "MP": "100K",
-      "EXP": "1M",
-      "넉백 가능 데미지": "50000+",
-      "물리 데미지": "6921",
-      "마법 데미지": "6466",
-      "물리 방어력": "1200",
-      "마법 방어력": "1500",
-      "속도": "",
-      "176레벨 에서의 필요 명중": "824.85",
-      "메소": "1320.0",
-      "속성관계": "독속성무효"
-    },
-    "listStats": {
-      "레벨": "176",
-      "이미지": "",
-      "이름": "듀나스",
-      "HP": "2억",
-      "EXP": "188만",
-      "체경비": "132.66",
-      "속성": "독속성무효"
-    },
-    "regions": [
-      "일본",
-      "네오도쿄",
-      "BOSS"
-    ],
-    "spawn": [],
-    "spawnText": "",
-    "drops": [
-      {
-        "name": "엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000004",
-        "drop_rate": "100%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000004/icon?resize=2"
-      },
-      {
-        "name": "파워 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000005",
-        "drop_rate": "100%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000005/icon?resize=2"
-      },
-      {
-        "name": "힘솟는 드링크",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2022345",
-        "drop_rate": "70%",
-        "image_url": "https://maplestory.io/api/jms/400/item/2022345/icon?resize=2"
-      },
-      {
-        "name": "저주받은 힘의 주문서(얼굴장식)",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040033",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/jms/400/item/2040033/icon?resize=2"
-      },
-      {
-        "name": "저주받은 지력의 주문서(얼굴장식)",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040034",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/jms/400/item/2040034/icon?resize=2"
-      },
-      {
-        "name": "저주받은 민첩성의 주문서(얼굴장식)",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040035",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/jms/400/item/2040035/icon?resize=2"
-      },
-      {
-        "name": "저주받은 행운의 주문서(얼굴장식)",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040036",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/jms/400/item/2040036/icon?resize=2"
-      },
-      {
-        "name": "마법의 돌",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4006000",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4006000/icon?resize=2"
-      },
-      {
-        "name": "소환의 돌",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4006001",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4006001/icon?resize=2"
-      },
-      {
-        "name": "마나 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000006",
-        "drop_rate": "0.3%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000006/icon?resize=2"
-      },
-      {
-        "name": "만병통치약",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2050004",
-        "drop_rate": "0.3%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2050004/icon?resize=2"
-      },
-      {
-        "name": "은화",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4032181",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/jms/400/item/4032181/icon?resize=2"
-      }
-    ],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400294",
-    "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:08.187249+00:00"
   },
   {
     "id": "9400296",
@@ -111726,7 +111620,7 @@
     "level": 180,
     "titles": [
       "사람",
-      "날개"
+      "천사"
     ],
     "imagePath": "assets/monsters/9400289.png",
     "imageWidth": 236,
