@@ -1,0 +1,23 @@
+"""Apply the curated recommendation families to gallery and detail data."""
+from pathlib import Path
+import json,re
+ROOT=Path(__file__).resolve().parents[1]
+p=ROOT/'index.html';html=p.read_text(encoding='utf-8');match=re.search(r'<script id="monster-data" type="application/json">(.*?)</script>',html,re.S)
+if not match:raise ValueError('Gallery data is missing')
+gallery=json.loads(match[1]);details=json.loads((ROOT/'data/monsters.json').read_text(encoding='utf-8'));families=json.loads((ROOT/'data/sort-families.json').read_text(encoding='utf-8'));ids={m['id'] for m in gallery}
+if ids!={m['id'] for m in details}:raise ValueError('Gallery and detail rosters must match')
+owners={};family_ids=set()
+for family in families:
+ if family['id'] in family_ids:raise ValueError('Duplicate family ID')
+ family_ids.add(family['id'])
+ if len(family['monsterIds'])<2:raise ValueError('Families need at least two monsters')
+ for mid in family['monsterIds']:
+  if mid not in ids:raise ValueError('Unknown monster ID: '+mid)
+  if mid in owners:raise ValueError('Monster is assigned to two families: '+mid)
+  owners[mid]=family['id']
+for collection in [gallery,details]:
+ for monster in collection:
+  monster.pop('sortFamily',None)
+  if monster['id'] in owners:monster['sortFamily']=owners[monster['id']]
+encoded=json.dumps(gallery,ensure_ascii=False,separators=(',',':')).replace('</','<\\/');p.write_text(html[:match.start(1)]+encoded+html[match.end(1):],encoding='utf-8');(ROOT/'data/monsters.json').write_text(json.dumps(details,ensure_ascii=False,indent=2),encoding='utf-8')
+print('Assigned',len(owners),'monsters to',len(families),'families;',len(ids)-len(owners),'single monsters.')
