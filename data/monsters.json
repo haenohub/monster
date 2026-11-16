@@ -44695,7 +44695,8 @@
     "name": "롬바드",
     "level": 47,
     "titles": [
-      "로봇"
+      "로봇",
+      "장난감"
     ],
     "imagePath": "assets/monsters/4130103.png",
     "imageWidth": 157,
@@ -65352,7 +65353,6 @@
     "name": "호문",
     "level": 65,
     "titles": [
-      "사물",
       "실험체"
     ],
     "imagePath": "assets/monsters/6110300.png",
@@ -65913,7 +65913,6 @@
     "name": "제노",
     "level": 65,
     "titles": [
-      "로봇",
       "외계인"
     ],
     "imagePath": "assets/monsters/6220001.png",
@@ -73994,8 +73993,7 @@
     "name": "호문쿨루",
     "level": 73,
     "titles": [
-      "실험체",
-      "언데드"
+      "실험체"
     ],
     "imagePath": "assets/monsters/7110301.png",
     "imageWidth": 80,
@@ -105566,60 +105564,7 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400254",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:05.429528+00:00",
-    "sortFamily": "family_124"
-  },
-  {
-    "id": "9400276",
-    "name": "오버로드",
-    "level": 137,
-    "titles": [
-      "로봇"
-    ],
-    "imagePath": "assets/monsters/9400276.png",
-    "imageWidth": 88,
-    "imageHeight": 100,
-    "type": "Unknown",
-    "description": "",
-    "stats": {
-      "HP": "150.0K",
-      "MP": "450",
-      "EXP": "8200",
-      "넉백 가능 데미지": "50000+",
-      "물리 데미지": "320",
-      "마법 데미지": "420",
-      "물리 방어력": "920",
-      "마법 방어력": "750",
-      "속도": "30",
-      "137레벨 에서의 필요 명중": "153.972",
-      "메소": "1027.5",
-      "속성관계": "불속성반감 전기속성반감 얼음속성반감 독속성무효 성속성반감"
-    },
-    "listStats": {
-      "레벨": "137",
-      "이미지": "",
-      "이름": "오버로드",
-      "HP": "15만",
-      "EXP": "8200",
-      "체경비": "18.29",
-      "속성": "불속성반감 전기속성반감 얼음속성반감 독속성무효 성속성반감"
-    },
-    "regions": [
-      "일본",
-      "네오도쿄"
-    ],
-    "spawn": [
-      {
-        "name": "오다이바 2100년 4",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/802000211"
-      }
-    ],
-    "spawnText": "오다이바 2100년 4",
-    "drops": [],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400276",
-    "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:05.486905+00:00",
-    "sortFamily": "family_124"
+    "checkedAt": "2026-11-15T16:43:05.429528+00:00"
   },
   {
     "id": "8888888",
@@ -108615,86 +108560,6 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400260",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.409558+00:00"
-  },
-  {
-    "id": "9400274",
-    "name": "매버릭 Typeβ",
-    "level": 143,
-    "titles": [
-      "로봇"
-    ],
-    "imagePath": "assets/monsters/9400274.png",
-    "imageWidth": 159,
-    "imageHeight": 143,
-    "type": "",
-    "description": "",
-    "stats": {
-      "HP": "8만",
-      "MP": "",
-      "물리 방어력": "",
-      "마법 방어력": "",
-      "EXP": "1만"
-    },
-    "listStats": {
-      "레벨": "143",
-      "이미지": "",
-      "이름": "매버릭 Typeβ",
-      "HP": "8만",
-      "EXP": "1만",
-      "체경비": "6.25",
-      "속성": "독속성무효 성속성반감"
-    },
-    "regions": [
-      "일본",
-      "네오도쿄"
-    ],
-    "spawn": [],
-    "spawnText": "",
-    "drops": [],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400274",
-    "sourceStatus": "unavailable",
-    "checkedAt": "2026-11-15T16:43:06.568413+00:00",
-    "sortFamily": "family_143"
-  },
-  {
-    "id": "9400278",
-    "name": "매버릭 Typeβ",
-    "level": 143,
-    "titles": [
-      "로봇"
-    ],
-    "imagePath": "assets/monsters/9400278.png",
-    "imageWidth": 159,
-    "imageHeight": 143,
-    "type": "",
-    "description": "",
-    "stats": {
-      "HP": "8만",
-      "MP": "",
-      "물리 방어력": "",
-      "마법 방어력": "",
-      "EXP": "1만"
-    },
-    "listStats": {
-      "레벨": "143",
-      "이미지": "",
-      "이름": "매버릭 Typeβ",
-      "HP": "8만",
-      "EXP": "1만",
-      "체경비": "6.25",
-      "속성": "독속성무효 성속성반감"
-    },
-    "regions": [
-      "일본",
-      "네오도쿄"
-    ],
-    "spawn": [],
-    "spawnText": "",
-    "drops": [],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400278",
-    "sourceStatus": "unavailable",
-    "checkedAt": "2026-11-15T16:43:06.634204+00:00",
-    "sortFamily": "family_143"
   },
   {
     "id": "9400287",

@@ -31,7 +31,7 @@ function check(input){
  }
  return output;
 }
-assert.equal(monsters.length,570);
+assert.equal(monsters.length,567);
 const detailMap=new Map(details.map(m=>[m.id,m]));
 for(const m of monsters)assert.deepEqual(m.regions,detailMap.get(m.id).regions);
 const owners=new Set();for(const f of families){assert.ok(f.monsterIds.length>=2);for(const id of f.monsterIds){assert.ok(!owners.has(id));owners.add(id);assert.equal(detailMap.get(id).sortFamily,f.id);}}
@@ -49,4 +49,4 @@ const shared=[synthetic(1,['A'],10),synthetic(2,['A','B'],100),synthetic(3,['B']
 assert.deepEqual(check(shared).map(m=>m.id),['1','3','4','2']);
 check([synthetic(1,['A'],20,30),synthetic(2,['A'],20,5)]);
 for(const mode of ['size','level']){context.sortMode=mode;const list=Array.from(context.sortForDisplay([...monsters]));sorted(list,mode==='size'?sizeOrder:(a,b)=>a.level-b.level||Number(a.id)-Number(b.id));}
-console.log('PASS: 570 monsters, 81 title views, source-region sync, family/region contiguity, region priority over size, BOSS exclusion, multi-region overlap, size/level ties, search/empty results, Thanatos/Eregos adjacency, existing size and level modes.');
+console.log('PASS: 567 monsters, 81 title views, source-region sync, family/region contiguity, region priority over size, BOSS exclusion, multi-region overlap, size/level ties, search/empty results, Thanatos/Eregos adjacency, existing size and level modes.');
