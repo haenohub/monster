@@ -5548,7 +5548,8 @@
     "name": "비너",
     "level": 18,
     "titles": [
-      "사물"
+      "사물",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420502.png",
     "imageWidth": 67,
@@ -7165,7 +7166,8 @@
     "name": "스티지",
     "level": 20,
     "titles": [
-      "박쥐"
+      "포유류",
+      "날개"
     ],
     "imagePath": "assets/monsters/2300100.png",
     "imageWidth": 46,
@@ -8949,7 +8951,8 @@
     "name": "더스트 박스",
     "level": 22,
     "titles": [
-      "사물"
+      "사물",
+      "오물"
     ],
     "imagePath": "assets/monsters/2150001.png",
     "imageWidth": 72,
@@ -10583,7 +10586,7 @@
     "name": "들개",
     "level": 23,
     "titles": [
-      "강아지"
+      "개"
     ],
     "imagePath": "assets/monsters/9410000.png",
     "imageWidth": 79,
@@ -10780,7 +10783,8 @@
     "name": "바투",
     "level": 23,
     "titles": [
-      "박쥐"
+      "오물",
+      "날개"
     ],
     "imagePath": "assets/monsters/9420506.png",
     "imageWidth": 175,
@@ -12925,7 +12929,8 @@
     "name": "까마귀",
     "level": 25,
     "titles": [
-      "새"
+      "새",
+      "날개"
     ],
     "imagePath": "assets/monsters/9400000.png",
     "imageWidth": 65,
@@ -13251,7 +13256,8 @@
     "name": "킬라 비",
     "level": 25,
     "titles": [
-      "벌레"
+      "벌레",
+      "날개"
     ],
     "imagePath": "assets/monsters/9400540.png",
     "imageWidth": 58,
@@ -13408,7 +13414,7 @@
     "name": "멋쟁이 들개",
     "level": 25,
     "titles": [
-      "강아지"
+      "개"
     ],
     "imagePath": "assets/monsters/9410001.png",
     "imageWidth": 80,
@@ -13728,8 +13734,7 @@
     "name": "양",
     "level": 25,
     "titles": [
-      "양",
-      "발굽 동물"
+      "양"
     ],
     "imagePath": "assets/monsters/9600003.png",
     "imageWidth": 90,
@@ -15245,7 +15250,8 @@
     "name": "통행금지",
     "level": 28,
     "titles": [
-      "사물"
+      "사물",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420500.png",
     "imageWidth": 71,
@@ -18511,8 +18517,7 @@
     "name": "염소",
     "level": 30,
     "titles": [
-      "염소",
-      "발굽 동물"
+      "염소"
     ],
     "imagePath": "assets/monsters/9600004.png",
     "imageWidth": 71,
@@ -18767,7 +18772,8 @@
     "level": 31,
     "titles": [
       "새",
-      "장난감"
+      "장난감",
+      "날개"
     ],
     "imagePath": "assets/monsters/3230307.png",
     "imageWidth": 55,
@@ -22626,7 +22632,8 @@
     "name": "과속금지",
     "level": 33,
     "titles": [
-      "사물"
+      "사물",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420503.png",
     "imageWidth": 74,
@@ -22795,8 +22802,7 @@
     "name": "소",
     "level": 33,
     "titles": [
-      "소",
-      "발굽 동물"
+      "소"
     ],
     "imagePath": "assets/monsters/9600006.png",
     "imageWidth": 126,
@@ -26445,179 +26451,6 @@
     "checkedAt": "2026-11-15T16:42:33.523667+00:00"
   },
   {
-    "id": "3400000",
-    "name": "체리맛 버블티",
-    "level": 35,
-    "titles": [
-      "음료"
-    ],
-    "imagePath": "assets/monsters/3400000.png",
-    "imageWidth": 46,
-    "imageHeight": 85,
-    "type": "Unknown",
-    "description": "",
-    "stats": {
-      "HP": "1400",
-      "MP": "100",
-      "EXP": "80",
-      "넉백 가능 데미지": "200+",
-      "물리 데미지": "110",
-      "마법 데미지": "115",
-      "물리 방어력": "100",
-      "마법 방어력": "115",
-      "속도": "-20",
-      "35레벨 에서의 필요 명중": "58.656",
-      "메소": "262.5",
-      "속성관계": ""
-    },
-    "listStats": {
-      "레벨": "35",
-      "이미지": "",
-      "이름": "체리맛 버블티",
-      "HP": "1400",
-      "EXP": "80",
-      "체경비": "17.50",
-      "속성": ""
-    },
-    "regions": [
-      "빅토리아 / 엘린숲"
-    ],
-    "spawn": [
-      {
-        "name": "1층 2층 A구역",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/103040100"
-      },
-      {
-        "name": "1층 2층 B구역",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/103040101"
-      },
-      {
-        "name": "1층 2층 D구역",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/103040103"
-      }
-    ],
-    "spawnText": "1층 2층 A구역 1층 2층 B구역 1층 2층 D구역",
-    "drops": [
-      {
-        "name": "장어 구이",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2022003",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2022003/icon?resize=2"
-      },
-      {
-        "name": "마나 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000006",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000006/icon?resize=2"
-      },
-      {
-        "name": "엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000004",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000004/icon?resize=2"
-      },
-      {
-        "name": "파란 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000003",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000003/icon?resize=2"
-      },
-      {
-        "name": "주황 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000001",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000001/icon?resize=2"
-      },
-      {
-        "name": "다이아몬드의 원석",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4020007",
-        "drop_rate": "0.015%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4020007/icon?resize=2"
-      },
-      {
-        "name": "힘의 크리스탈 원석",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4004000",
-        "drop_rate": "0.008%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4004000/icon?resize=2"
-      },
-      {
-        "name": "투구 체력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040004",
-        "drop_rate": "0.007%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040004/icon?resize=2"
-      },
-      {
-        "name": "전신 갑옷 방어력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040504",
-        "drop_rate": "0.007%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040504/icon?resize=2"
-      },
-      {
-        "name": "자 진월장화",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072126",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072126/icon?resize=2"
-      },
-      {
-        "name": "브라운 레더크라그",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072300",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072300/icon?resize=2"
-      },
-      {
-        "name": "레드 피에르슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072118",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072118/icon?resize=2"
-      },
-      {
-        "name": "다크 문슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072117",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072117/icon?resize=2"
-      },
-      {
-        "name": "레드 하프슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072107",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072107/icon?resize=2"
-      },
-      {
-        "name": "레드 로얄미스티",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002628",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002628/icon?resize=2"
-      },
-      {
-        "name": "다크 필퍼",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002185",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002185/icon?resize=2"
-      },
-      {
-        "name": "다크 크라페",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002170",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002170/icon?resize=2"
-      },
-      {
-        "name": "다크 길티언",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002154",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002154/icon?resize=2"
-      },
-      {
-        "name": "골드 노르만 헬름",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002098",
-        "drop_rate": "0.001%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002098/icon?resize=2"
-      }
-    ],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3400000",
-    "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:33.527267+00:00"
-  },
-  {
     "id": "5400000",
     "name": "주니어 페페",
     "level": 35,
@@ -26867,8 +26700,7 @@
     "name": "흑염소",
     "level": 35,
     "titles": [
-      "염소",
-      "발굽 동물"
+      "염소"
     ],
     "imagePath": "assets/monsters/9600005.png",
     "imageWidth": 71,
@@ -27988,179 +27820,6 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210450",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.219888+00:00"
-  },
-  {
-    "id": "3400001",
-    "name": "망고맛 버블티",
-    "level": 36,
-    "titles": [
-      "음료"
-    ],
-    "imagePath": "assets/monsters/3400001.png",
-    "imageWidth": 46,
-    "imageHeight": 85,
-    "type": "Unknown",
-    "description": "",
-    "stats": {
-      "HP": "1500",
-      "MP": "100",
-      "EXP": "85",
-      "넉백 가능 데미지": "200+",
-      "물리 데미지": "112",
-      "마법 데미지": "118",
-      "물리 방어력": "105",
-      "마법 방어력": "118",
-      "속도": "-20",
-      "36레벨 에서의 필요 명중": "58.656",
-      "메소": "270.0",
-      "속성관계": ""
-    },
-    "listStats": {
-      "레벨": "36",
-      "이미지": "",
-      "이름": "망고맛 버블티",
-      "HP": "1500",
-      "EXP": "85",
-      "체경비": "17.65",
-      "속성": ""
-    },
-    "regions": [
-      "빅토리아 / 엘린숲"
-    ],
-    "spawn": [
-      {
-        "name": "1층 2층 B구역",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/103040101"
-      },
-      {
-        "name": "1층 2층 C구역",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/103040102"
-      },
-      {
-        "name": "1층 2층 D구역",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/103040103"
-      }
-    ],
-    "spawnText": "1층 2층 B구역 1층 2층 C구역 1층 2층 D구역",
-    "drops": [
-      {
-        "name": "장어 구이",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2022003",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2022003/icon?resize=2"
-      },
-      {
-        "name": "마나 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000006",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000006/icon?resize=2"
-      },
-      {
-        "name": "엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000004",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000004/icon?resize=2"
-      },
-      {
-        "name": "파란 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000003",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000003/icon?resize=2"
-      },
-      {
-        "name": "주황 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000001",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000001/icon?resize=2"
-      },
-      {
-        "name": "다이아몬드의 원석",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4020007",
-        "drop_rate": "0.015%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4020007/icon?resize=2"
-      },
-      {
-        "name": "힘의 크리스탈 원석",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4004000",
-        "drop_rate": "0.008%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4004000/icon?resize=2"
-      },
-      {
-        "name": "투구 체력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040004",
-        "drop_rate": "0.007%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040004/icon?resize=2"
-      },
-      {
-        "name": "전신 갑옷 방어력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040504",
-        "drop_rate": "0.007%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040504/icon?resize=2"
-      },
-      {
-        "name": "자 진월장화",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072126",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072126/icon?resize=2"
-      },
-      {
-        "name": "브라운 레더크라그",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072300",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072300/icon?resize=2"
-      },
-      {
-        "name": "레드 피에르슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072118",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072118/icon?resize=2"
-      },
-      {
-        "name": "다크 문슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072117",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072117/icon?resize=2"
-      },
-      {
-        "name": "레드 하프슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072107",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072107/icon?resize=2"
-      },
-      {
-        "name": "레드 로얄미스티",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002628",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002628/icon?resize=2"
-      },
-      {
-        "name": "다크 필퍼",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002185",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002185/icon?resize=2"
-      },
-      {
-        "name": "다크 크라페",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002170",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002170/icon?resize=2"
-      },
-      {
-        "name": "다크 길티언",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002154",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002154/icon?resize=2"
-      },
-      {
-        "name": "골드 노르만 헬름",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002098",
-        "drop_rate": "0.0011%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002098/icon?resize=2"
-      }
-    ],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3400001",
-    "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:34.226371+00:00"
   },
   {
     "id": "9400542",
@@ -29434,177 +29093,11 @@
     "checkedAt": "2026-11-15T16:42:34.641001+00:00"
   },
   {
-    "id": "3400002",
-    "name": "멜론맛 버블티",
-    "level": 37,
-    "titles": [
-      "음료"
-    ],
-    "imagePath": "assets/monsters/3400002.png",
-    "imageWidth": 46,
-    "imageHeight": 85,
-    "type": "Unknown",
-    "description": "",
-    "stats": {
-      "HP": "1600",
-      "MP": "100",
-      "EXP": "88",
-      "넉백 가능 데미지": "200+",
-      "물리 데미지": "115",
-      "마법 데미지": "120",
-      "물리 방어력": "110",
-      "마법 방어력": "100",
-      "속도": "-20",
-      "37레벨 에서의 필요 명중": "62.322",
-      "메소": "277.5",
-      "속성관계": ""
-    },
-    "listStats": {
-      "레벨": "37",
-      "이미지": "",
-      "이름": "멜론맛 버블티",
-      "HP": "1600",
-      "EXP": "88",
-      "체경비": "18.18",
-      "속성": ""
-    },
-    "regions": [
-      "빅토리아 / 엘린숲"
-    ],
-    "spawn": [
-      {
-        "name": "1층 2층 C구역",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/103040102"
-      }
-    ],
-    "spawnText": "1층 2층 C구역",
-    "drops": [
-      {
-        "name": "장어 구이",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2022003",
-        "drop_rate": "0.5%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2022003/icon?resize=2"
-      },
-      {
-        "name": "마나 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000006",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000006/icon?resize=2"
-      },
-      {
-        "name": "엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000004",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000004/icon?resize=2"
-      },
-      {
-        "name": "파란 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000003",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000003/icon?resize=2"
-      },
-      {
-        "name": "주황 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000001",
-        "drop_rate": "0.1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000001/icon?resize=2"
-      },
-      {
-        "name": "다이아몬드의 원석",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4020007",
-        "drop_rate": "0.015%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4020007/icon?resize=2"
-      },
-      {
-        "name": "힘의 크리스탈 원석",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/4004000",
-        "drop_rate": "0.008%",
-        "image_url": "https://maplestory.io/api/gms/100/item/4004000/icon?resize=2"
-      },
-      {
-        "name": "투구 체력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040004",
-        "drop_rate": "0.007%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040004/icon?resize=2"
-      },
-      {
-        "name": "전신 갑옷 방어력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040504",
-        "drop_rate": "0.007%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040504/icon?resize=2"
-      },
-      {
-        "name": "자 진월장화",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072126",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072126/icon?resize=2"
-      },
-      {
-        "name": "브라운 레더크라그",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072300",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072300/icon?resize=2"
-      },
-      {
-        "name": "레드 피에르슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072118",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072118/icon?resize=2"
-      },
-      {
-        "name": "다크 문슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072117",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072117/icon?resize=2"
-      },
-      {
-        "name": "레드 하프슈즈",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1072107",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1072107/icon?resize=2"
-      },
-      {
-        "name": "레드 로얄미스티",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002628",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002628/icon?resize=2"
-      },
-      {
-        "name": "다크 필퍼",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002185",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002185/icon?resize=2"
-      },
-      {
-        "name": "다크 크라페",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002170",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002170/icon?resize=2"
-      },
-      {
-        "name": "다크 길티언",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002154",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002154/icon?resize=2"
-      },
-      {
-        "name": "골드 노르만 헬름",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/1002098",
-        "drop_rate": "0.0012%",
-        "image_url": "https://maplestory.io/api/gms/100/item/1002098/icon?resize=2"
-      }
-    ],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3400002",
-    "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:34.920710+00:00"
-  },
-  {
     "id": "9600008",
     "name": "검은 양",
     "level": 37,
     "titles": [
-      "양",
-      "발굽 동물"
+      "양"
     ],
     "imagePath": "assets/monsters/9600008.png",
     "imageWidth": 90,
@@ -32013,7 +31506,8 @@
     "name": "프리저",
     "level": 38,
     "titles": [
-      "사물"
+      "사물",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420501.png",
     "imageWidth": 67,
@@ -32191,8 +31685,7 @@
     "name": "쟁기소",
     "level": 38,
     "titles": [
-      "소",
-      "발굽 동물"
+      "소"
     ],
     "imagePath": "assets/monsters/9600007.png",
     "imageWidth": 142,
@@ -32360,8 +31853,7 @@
     "level": 39,
     "titles": [
       "장난감",
-      "말",
-      "발굽 동물"
+      "말"
     ],
     "imagePath": "assets/monsters/3230305.png",
     "imageWidth": 95,
@@ -32615,7 +32107,8 @@
     "level": 39,
     "titles": [
       "새",
-      "장난감"
+      "장난감",
+      "날개"
     ],
     "imagePath": "assets/monsters/3230308.png",
     "imageWidth": 55,
@@ -32878,7 +32371,6 @@
     "name": "변신 인형뽑기 기계",
     "level": 39,
     "titles": [
-      "펭귄",
       "인형뽑기"
     ],
     "imagePath": "assets/monsters/3400007.png",
@@ -36123,8 +35615,8 @@
     "name": "마티안",
     "level": 41,
     "titles": [
-      "기계",
-      "외계인"
+      "외계인",
+      "문어"
     ],
     "imagePath": "assets/monsters/4230119.png",
     "imageWidth": 76,
@@ -36983,7 +36475,8 @@
     "name": "아이언호그",
     "level": 42,
     "titles": [
-      "돼지"
+      "돼지",
+      "갑옷"
     ],
     "imagePath": "assets/monsters/4230103.png",
     "imageWidth": 68,
@@ -38235,7 +37728,7 @@
     "name": "험악한 들개",
     "level": 42,
     "titles": [
-      "강아지"
+      "개"
     ],
     "imagePath": "assets/monsters/9410002.png",
     "imageWidth": 86,
@@ -38376,7 +37869,7 @@
     "name": "주니어 불독",
     "level": 43,
     "titles": [
-      "강아지"
+      "개"
     ],
     "imagePath": "assets/monsters/4230108.png",
     "imageWidth": 38,
@@ -39262,7 +38755,8 @@
     "level": 43,
     "titles": [
       "문어",
-      "해양생물"
+      "해양생물",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420508.png",
     "imageWidth": 75,
@@ -39708,7 +39202,8 @@
     "level": 44,
     "titles": [
       "기계",
-      "외계인"
+      "외계인",
+      "문어"
     ],
     "imagePath": "assets/monsters/4230120.png",
     "imageWidth": 63,
@@ -39973,7 +39468,7 @@
     "name": "스켈독",
     "level": 44,
     "titles": [
-      "강아지",
+      "개",
       "해골",
       "언데드"
     ],
@@ -42238,7 +41733,8 @@
     "name": "아이언보어",
     "level": 45,
     "titles": [
-      "돼지"
+      "돼지",
+      "갑옷"
     ],
     "imagePath": "assets/monsters/4230400.png",
     "imageWidth": 67,
@@ -43596,7 +43092,8 @@
     "name": "클로로트랩",
     "level": 45,
     "titles": [
-      "식물"
+      "식물",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420527.png",
     "imageWidth": 63,
@@ -44027,7 +43524,8 @@
     "level": 46,
     "titles": [
       "기계",
-      "외계인"
+      "외계인",
+      "문어"
     ],
     "imagePath": "assets/monsters/4230121.png",
     "imageWidth": 81,
@@ -45207,7 +44705,7 @@
     "name": "머미독",
     "level": 47,
     "titles": [
-      "강아지",
+      "개",
       "해골",
       "언데드"
     ],
@@ -46180,7 +45678,7 @@
     "name": "이모 슬라임",
     "level": 47,
     "titles": [
-      "사물"
+      "오물"
     ],
     "imagePath": "assets/monsters/9420528.png",
     "imageWidth": 70,
@@ -46622,7 +46120,8 @@
     "name": "삼단지",
     "level": 48,
     "titles": [
-      "사물"
+      "사물",
+      "식물"
     ],
     "imagePath": "assets/monsters/4230506.png",
     "imageWidth": 85,
@@ -49759,7 +49258,8 @@
     "level": 50,
     "titles": [
       "새",
-      "그리핀"
+      "그리핀",
+      "날개"
     ],
     "imagePath": "assets/monsters/9400544.png",
     "imageWidth": 142,
@@ -50222,7 +49722,8 @@
     "name": "티포 레드",
     "level": 50,
     "titles": [
-      "기계"
+      "기계",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420504.png",
     "imageWidth": 117,
@@ -51433,7 +50934,7 @@
     "name": "다크 피션",
     "level": 52,
     "titles": [
-      "언데드"
+      "오물"
     ],
     "imagePath": "assets/monsters/9420529.png",
     "imageWidth": 87,
@@ -52751,7 +52252,8 @@
     "name": "티포 블루",
     "level": 53,
     "titles": [
-      "기계"
+      "기계",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420505.png",
     "imageWidth": 117,
@@ -53097,7 +52599,9 @@
     "name": "머신 MT-09",
     "level": 54,
     "titles": [
-      "로봇"
+      "기계",
+      "문어",
+      "외계인"
     ],
     "imagePath": "assets/monsters/5120100.png",
     "imageWidth": 124,
@@ -53522,7 +53026,7 @@
     "name": "비급",
     "level": 55,
     "titles": [
-      "사물"
+      "유령"
     ],
     "imagePath": "assets/monsters/5120506.png",
     "imageWidth": 84,
@@ -53982,7 +53486,7 @@
     "name": "헥터",
     "level": 55,
     "titles": [
-      "강아지"
+      "늑대"
     ],
     "imagePath": "assets/monsters/5130104.png",
     "imageWidth": 102,
@@ -55961,7 +55465,8 @@
     "name": "올리 올리",
     "level": 56,
     "titles": [
-      "사물"
+      "사물",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420530.png",
     "imageWidth": 98,
@@ -57202,7 +56707,7 @@
     "name": "천록",
     "level": 58,
     "titles": [
-      "발굽 동물"
+      "포유류"
     ],
     "imagePath": "assets/monsters/5120505.png",
     "imageWidth": 64,
@@ -57680,7 +57185,7 @@
     "name": "화이트팽",
     "level": 58,
     "titles": [
-      "강아지"
+      "늑대"
     ],
     "imagePath": "assets/monsters/5140000.png",
     "imageWidth": 102,
@@ -58818,7 +58323,8 @@
     "name": "겁쟁이 스칼리온",
     "level": 59,
     "titles": [
-      "사자"
+      "사자",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420531.png",
     "imageWidth": 83,
@@ -59007,7 +58513,8 @@
     "name": "라타튤라",
     "level": 59,
     "titles": [
-      "쥐"
+      "곰",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420532.png",
     "imageWidth": 73,
@@ -60197,8 +59704,7 @@
     "name": "깨비",
     "level": 60,
     "titles": [
-      "도깨비",
-      "언데드"
+      "도깨비"
     ],
     "imagePath": "assets/monsters/6130202.png",
     "imageWidth": 59,
@@ -62585,7 +62091,8 @@
     "name": "로데오",
     "level": 61,
     "titles": [
-      "기계"
+      "기계",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420533.png",
     "imageWidth": 95,
@@ -64178,8 +63685,8 @@
     "name": "슬리미",
     "level": 63,
     "titles": [
-      "좀비",
-      "언데드"
+      "언데드",
+      "해적"
     ],
     "imagePath": "assets/monsters/9420510.png",
     "imageWidth": 82,
@@ -66097,7 +65604,8 @@
     "name": "제노",
     "level": 65,
     "titles": [
-      "로봇"
+      "로봇",
+      "외계인"
     ],
     "imagePath": "assets/monsters/6220001.png",
     "imageWidth": 132,
@@ -67253,7 +66761,8 @@
     "name": "챠머",
     "level": 65,
     "titles": [
-      "기계"
+      "기계",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420534.png",
     "imageWidth": 133,
@@ -70050,7 +69559,8 @@
     "level": 68,
     "titles": [
       "사자",
-      "광대"
+      "광대",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420535.png",
     "imageWidth": 135,
@@ -70255,8 +69765,7 @@
     "name": "타우로마시스",
     "level": 70,
     "titles": [
-      "소",
-      "발굽 동물"
+      "소"
     ],
     "imagePath": "assets/monsters/7130100.png",
     "imageWidth": 162,
@@ -72964,7 +72473,7 @@
     "name": "불독",
     "level": 72,
     "titles": [
-      "강아지"
+      "개"
     ],
     "imagePath": "assets/monsters/7130001.png",
     "imageWidth": 104,
@@ -73899,7 +73408,8 @@
     "name": "프로스콜라",
     "level": 72,
     "titles": [
-      "쥐"
+      "곰",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420536.png",
     "imageWidth": 81,
@@ -75863,8 +75373,7 @@
     "name": "타우로스피어",
     "level": 75,
     "titles": [
-      "소",
-      "발굽 동물"
+      "소"
     ],
     "imagePath": "assets/monsters/7130101.png",
     "imageWidth": 186,
@@ -76123,7 +75632,7 @@
     "name": "웨어울프",
     "level": 75,
     "titles": [
-      "강아지"
+      "늑대"
     ],
     "imagePath": "assets/monsters/7130200.png",
     "imageWidth": 134,
@@ -76446,7 +75955,8 @@
     "name": "야바 두",
     "level": 75,
     "titles": [
-      "기계"
+      "기계",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420537.png",
     "imageWidth": 151,
@@ -78050,7 +77560,7 @@
     "imageWidth": 237,
     "imageHeight": 185,
     "type": "Unknown",
-    "description": "",
+    "description": "제뉴미스트의 마법력과 알카드노의 기술력을 합쳐 만들어낸 최강의 로이드. 강철로 만들어진 팔과 다리, 온갖 무기가 감춰진 몸통, 그리고 인간처럼 생각할 줄 아는 두뇌를 가지고 있다. 이름을 밝힐 수 없는 어떤 연금술사의 작품이다.",
     "stats": {
       "HP": "627.0K",
       "MP": "2500",
@@ -78082,7 +77592,9 @@
     "drops": [],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300151",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:54.542059+00:00"
+    "checkedAt": "2026-11-15T16:42:54.542059+00:00",
+    "descriptionSourceId": "9300139",
+    "descriptionSourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300139"
   },
   {
     "id": "7130004",
@@ -79353,7 +78865,7 @@
     "name": "라이칸스로프",
     "level": 80,
     "titles": [
-      "강아지"
+      "늑대"
     ],
     "imagePath": "assets/monsters/8140000.png",
     "imageWidth": 134,
@@ -79843,7 +79355,8 @@
     "name": "시간의 눈",
     "level": 80,
     "titles": [
-      "사물"
+      "사물",
+      "날개"
     ],
     "imagePath": "assets/monsters/8200000.png",
     "imageWidth": 52,
@@ -80080,186 +79593,6 @@
     "checkedAt": "2026-11-15T16:42:55.207726+00:00"
   },
   {
-    "id": "9300140",
-    "name": "화난 프랑켄로이드",
-    "level": 80,
-    "titles": [
-      "로봇",
-      "좀비",
-      "언데드"
-    ],
-    "imagePath": "assets/monsters/9300140.png",
-    "imageWidth": 237,
-    "imageHeight": 185,
-    "type": "Unknown",
-    "description": "",
-    "stats": {
-      "HP": "809.0K",
-      "MP": "2500",
-      "EXP": "23K",
-      "넉백 가능 데미지": "6000+",
-      "물리 데미지": "771",
-      "마법 데미지": "699",
-      "물리 방어력": "800",
-      "마법 방어력": "990",
-      "속도": "-30",
-      "80레벨 에서의 필요 명중": "179.634",
-      "메소": "600.0",
-      "속성관계": "전기속성반감 독속성반감"
-    },
-    "listStats": {
-      "레벨": "80",
-      "이미지": "",
-      "이름": "화난 프랑켄로이드",
-      "HP": "80만",
-      "EXP": "2만",
-      "체경비": "35.17",
-      "속성": "전기속성반감 독속성반감"
-    },
-    "regions": [
-      "BOSS"
-    ],
-    "spawn": [],
-    "spawnText": "",
-    "drops": [
-      {
-        "name": "하얀 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000002",
-        "drop_rate": "60%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000002/icon?resize=2"
-      },
-      {
-        "name": "마나 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000006",
-        "drop_rate": "30%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000006/icon?resize=2"
-      },
-      {
-        "name": "장어 구이",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2022003",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2022003/icon?resize=2"
-      },
-      {
-        "name": "황혼의 이슬",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2020015",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2020015/icon?resize=2"
-      },
-      {
-        "name": "새벽의 이슬",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2020014",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2020014/icon?resize=2"
-      },
-      {
-        "name": "순록의 우유",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2020013",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2020013/icon?resize=2"
-      },
-      {
-        "name": "팥빙수",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2001002",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2001002/icon?resize=2"
-      },
-      {
-        "name": "쭈쭈바",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2001001",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2001001/icon?resize=2"
-      },
-      {
-        "name": "파워 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000005",
-        "drop_rate": "10%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000005/icon?resize=2"
-      },
-      {
-        "name": "엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000004",
-        "drop_rate": "10%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000004/icon?resize=2"
-      },
-      {
-        "name": "단검 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043301",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043301/icon?resize=2"
-      },
-      {
-        "name": "석궁 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044601",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044601/icon?resize=2"
-      },
-      {
-        "name": "스태프 마력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043801",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043801/icon?resize=2"
-      },
-      {
-        "name": "아대 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044701",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044701/icon?resize=2"
-      },
-      {
-        "name": "투구 체력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040004",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040004/icon?resize=2"
-      },
-      {
-        "name": "한손검 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043001",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043001/icon?resize=2"
-      },
-      {
-        "name": "완드 마력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043701",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043701/icon?resize=2"
-      },
-      {
-        "name": "두손검 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044001",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044001/icon?resize=2"
-      },
-      {
-        "name": "활 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044501",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044501/icon?resize=2"
-      },
-      {
-        "name": "전신 갑옷 방어력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040504",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040504/icon?resize=2"
-      },
-      {
-        "name": "폴암 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044401",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044401/icon?resize=2"
-      },
-      {
-        "name": "신발 이동속도 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040707",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040707/icon?resize=2"
-      }
-    ],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300140",
-    "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:55.303744+00:00"
-  },
-  {
     "id": "9300152",
     "name": "화난 프랑켄로이드",
     "level": 80,
@@ -80272,7 +79605,7 @@
     "imageWidth": 237,
     "imageHeight": 185,
     "type": "Unknown",
-    "description": "",
+    "description": "제뉴미스트의 마법력과 알카드노의 기술력을 합쳐 만들어낸 최강의 로이드. 강철로 만들어진 팔과 다리, 온갖 무기가 감춰진 몸통, 그리고 인간처럼 생각할 줄 아는 두뇌를 가지고 있다. 이름을 밝힐 수 없는 어떤 연금술사의 작품이다.",
     "stats": {
       "HP": "809.0K",
       "MP": "2500",
@@ -80304,7 +79637,9 @@
     "drops": [],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300152",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:55.469495+00:00"
+    "checkedAt": "2026-11-15T16:42:55.469495+00:00",
+    "descriptionSourceId": "9300139",
+    "descriptionSourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300139"
   },
   {
     "id": "9300281",
@@ -81020,7 +80355,8 @@
     "name": "타르가",
     "level": 80,
     "titles": [
-      "곰"
+      "곰",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420542.png",
     "imageWidth": 111,
@@ -81065,7 +80401,8 @@
     "name": "스칼리온",
     "level": 80,
     "titles": [
-      "사자"
+      "사자",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420547.png",
     "imageWidth": 126,
@@ -81104,191 +80441,6 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420547",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.842310+00:00"
-  },
-  {
-    "id": "9300139",
-    "name": "프랑켄로이드",
-    "level": 81,
-    "titles": [
-      "로봇",
-      "좀비",
-      "언데드"
-    ],
-    "imagePath": "assets/monsters/9300139.png",
-    "imageWidth": 237,
-    "imageHeight": 185,
-    "type": "무기물형",
-    "description": "제뉴미스트의 마법력과 알카드노의 기술력을 합쳐 만들어낸 최강의 로이드. 강철로 만들어진 팔과 다리, 온갖 무기가 감춰진 몸통, 그리고 인간처럼 생각할 줄 아는 두뇌를 가지고 있다. 이름을 밝힐 수 없는 어떤 연금술사의 작품이다.",
-    "stats": {
-      "HP": "660.0K",
-      "MP": "2500",
-      "EXP": "12K",
-      "넉백 가능 데미지": "6000+",
-      "물리 데미지": "400",
-      "마법 데미지": "400",
-      "물리 방어력": "700",
-      "마법 방어력": "990",
-      "속도": "-30",
-      "81레벨 에서의 필요 명중": "102.648",
-      "메소": "607.5",
-      "속성관계": ""
-    },
-    "listStats": {
-      "레벨": "81",
-      "이미지": "",
-      "이름": "프랑켄로이드",
-      "HP": "66만",
-      "EXP": "1만",
-      "체경비": "55.00",
-      "속성": ""
-    },
-    "regions": [
-      "BOSS"
-    ],
-    "spawn": [
-      {
-        "name": "중앙 연구실",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/map_detail/926100401"
-      }
-    ],
-    "spawnText": "중앙 연구실",
-    "drops": [
-      {
-        "name": "하얀 포션",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000002",
-        "drop_rate": "60%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000002/icon?resize=2"
-      },
-      {
-        "name": "마나 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000006",
-        "drop_rate": "30%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000006/icon?resize=2"
-      },
-      {
-        "name": "장어 구이",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2022003",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2022003/icon?resize=2"
-      },
-      {
-        "name": "황혼의 이슬",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2020015",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2020015/icon?resize=2"
-      },
-      {
-        "name": "새벽의 이슬",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2020014",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2020014/icon?resize=2"
-      },
-      {
-        "name": "순록의 우유",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2020013",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2020013/icon?resize=2"
-      },
-      {
-        "name": "팥빙수",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2001002",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2001002/icon?resize=2"
-      },
-      {
-        "name": "쭈쭈바",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2001001",
-        "drop_rate": "20%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2001001/icon?resize=2"
-      },
-      {
-        "name": "파워 엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000005",
-        "drop_rate": "10%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000005/icon?resize=2"
-      },
-      {
-        "name": "엘릭서",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2000004",
-        "drop_rate": "10%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2000004/icon?resize=2"
-      },
-      {
-        "name": "단검 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043301",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043301/icon?resize=2"
-      },
-      {
-        "name": "석궁 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044601",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044601/icon?resize=2"
-      },
-      {
-        "name": "스태프 마력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043801",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043801/icon?resize=2"
-      },
-      {
-        "name": "아대 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044701",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044701/icon?resize=2"
-      },
-      {
-        "name": "투구 체력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040004",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040004/icon?resize=2"
-      },
-      {
-        "name": "한손검 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043001",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043001/icon?resize=2"
-      },
-      {
-        "name": "완드 마력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2043701",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2043701/icon?resize=2"
-      },
-      {
-        "name": "두손검 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044001",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044001/icon?resize=2"
-      },
-      {
-        "name": "활 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044501",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044501/icon?resize=2"
-      },
-      {
-        "name": "전신 갑옷 방어력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040504",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040504/icon?resize=2"
-      },
-      {
-        "name": "폴암 공격력 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2044401",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2044401/icon?resize=2"
-      },
-      {
-        "name": "신발 이동속도 주문서 60%",
-        "url": "https://www.xn--o80b01o9mlw3kdzc.com/item_detail/2040707",
-        "drop_rate": "1%",
-        "image_url": "https://maplestory.io/api/gms/100/item/2040707/icon?resize=2"
-      }
-    ],
-    "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300139",
-    "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:55.934010+00:00"
   },
   {
     "id": "8105000",
@@ -81800,7 +80952,8 @@
     "name": "부퍼 스칼리온",
     "level": 82,
     "titles": [
-      "사자"
+      "사자",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420538.png",
     "imageWidth": 126,
@@ -83450,8 +82603,7 @@
     "name": "버크",
     "level": 85,
     "titles": [
-      "양",
-      "발굽 동물"
+      "양"
     ],
     "imagePath": "assets/monsters/8140110.png",
     "imageWidth": 85,
@@ -83648,7 +82800,6 @@
     "name": "키메라",
     "level": 85,
     "titles": [
-      "골렘",
       "실험체"
     ],
     "imagePath": "assets/monsters/8220002.png",
@@ -84171,8 +83322,8 @@
     "name": "버서키",
     "level": 85,
     "titles": [
-      "식물",
-      "나무"
+      "나무",
+      "오물"
     ],
     "imagePath": "assets/monsters/9420514.png",
     "imageWidth": 136,
@@ -84809,7 +83960,8 @@
     "name": "바이크롤라",
     "level": 87,
     "titles": [
-      "기계"
+      "곰",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420539.png",
     "imageWidth": 94,
@@ -85709,8 +84861,7 @@
     "name": "듀얼 버크",
     "level": 88,
     "titles": [
-      "양",
-      "발굽 동물"
+      "양"
     ],
     "imagePath": "assets/monsters/8140111.png",
     "imageWidth": 97,
@@ -86371,7 +85522,7 @@
     "name": "파이어독",
     "level": 90,
     "titles": [
-      "강아지"
+      "개"
     ],
     "imagePath": "assets/monsters/8140500.png",
     "imageWidth": 104,
@@ -87432,7 +86583,8 @@
     "name": "비트론",
     "level": 90,
     "titles": [
-      "로봇"
+      "오물",
+      "딱정벌레"
     ],
     "imagePath": "assets/monsters/9420515.png",
     "imageWidth": 84,
@@ -88091,7 +87243,8 @@
     "name": "추억의 사제",
     "level": 91,
     "titles": [
-      "가면 사제"
+      "가면",
+      "사제"
     ],
     "imagePath": "assets/monsters/8200001.png",
     "imageWidth": 67,
@@ -89219,7 +88372,6 @@
     "name": "스퀴드",
     "level": 94,
     "titles": [
-      "문어",
       "해양생물"
     ],
     "imagePath": "assets/monsters/8141300.png",
@@ -89491,7 +88643,8 @@
     "name": "추억의 신관",
     "level": 94,
     "titles": [
-      "가면 사제"
+      "가면",
+      "사제"
     ],
     "imagePath": "assets/monsters/8200002.png",
     "imageWidth": 112,
@@ -89716,7 +88869,8 @@
     "name": "갤러페라",
     "level": 94,
     "titles": [
-      "쥐"
+      "곰",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420540.png",
     "imageWidth": 97,
@@ -91183,7 +90337,6 @@
     "name": "리셀스퀴드",
     "level": 97,
     "titles": [
-      "문어",
       "해양생물"
     ],
     "imagePath": "assets/monsters/8142100.png",
@@ -93767,7 +92920,8 @@
     "name": "화난 타르가",
     "level": 100,
     "titles": [
-      "곰"
+      "곰",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420543.png",
     "imageWidth": 111,
@@ -93812,7 +92966,8 @@
     "name": "화난 스칼리온",
     "level": 100,
     "titles": [
-      "사자"
+      "사자",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420548.png",
     "imageWidth": 126,
@@ -94493,8 +93648,7 @@
     "level": 101,
     "titles": [
       "불꽃",
-      "말",
-      "발굽 동물"
+      "말"
     ],
     "imagePath": "assets/monsters/9400549.png",
     "imageWidth": 132,
@@ -95201,7 +94355,8 @@
     "name": "플라잉 호크",
     "level": 103,
     "titles": [
-      "새"
+      "새",
+      "날개"
     ],
     "imagePath": "assets/monsters/8300000.png",
     "imageWidth": 89,
@@ -95246,7 +94401,8 @@
     "name": "플라잉 이글",
     "level": 103,
     "titles": [
-      "새"
+      "새",
+      "날개"
     ],
     "imagePath": "assets/monsters/8300001.png",
     "imageWidth": 89,
@@ -97448,7 +96604,8 @@
     "name": "몬트레서",
     "level": 105,
     "titles": [
-      "기계"
+      "기계",
+      "나무"
     ],
     "imagePath": "assets/monsters/9420518.png",
     "imageWidth": 169,
@@ -97629,7 +96786,8 @@
     "name": "후회의 사제",
     "level": 106,
     "titles": [
-      "가면 사제"
+      "가면",
+      "사제"
     ],
     "imagePath": "assets/monsters/8200005.png",
     "imageWidth": 67,
@@ -98778,7 +97936,8 @@
     "name": "후회의 신관",
     "level": 109,
     "titles": [
-      "가면 사제"
+      "가면",
+      "사제"
     ],
     "imagePath": "assets/monsters/8200006.png",
     "imageWidth": 112,
@@ -102931,7 +102090,7 @@
     "name": "흐살프",
     "level": 120,
     "titles": [
-      "갑옷"
+      "사람"
     ],
     "imagePath": "assets/monsters/9400593.png",
     "imageWidth": 95,
@@ -103521,7 +102680,8 @@
     "name": "망각의 사제",
     "level": 121,
     "titles": [
-      "가면 사제"
+      "가면",
+      "사제"
     ],
     "imagePath": "assets/monsters/8200009.png",
     "imageWidth": 67,
@@ -103722,7 +102882,6 @@
     "name": "도도",
     "level": 121,
     "titles": [
-      "물고기",
       "해양생물"
     ],
     "imagePath": "assets/monsters/8220004.png",
@@ -103967,7 +103126,8 @@
     "name": "망각의 신관",
     "level": 124,
     "titles": [
-      "가면 사제"
+      "가면",
+      "사제"
     ],
     "imagePath": "assets/monsters/8200010.png",
     "imageWidth": 112,
@@ -105355,8 +104515,7 @@
     "name": "릴리노흐",
     "level": 131,
     "titles": [
-      "말",
-      "발굽 동물"
+      "말"
     ],
     "imagePath": "assets/monsters/8220005.png",
     "imageWidth": 196,
@@ -106952,7 +106111,8 @@
     "name": "분노한 타르가",
     "level": 140,
     "titles": [
-      "곰"
+      "곰",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420544.png",
     "imageWidth": 111,
@@ -107376,7 +106536,8 @@
     "name": "분노한 스칼리온",
     "level": 140,
     "titles": [
-      "사자"
+      "사자",
+      "장난감"
     ],
     "imagePath": "assets/monsters/9420549.png",
     "imageWidth": 126,
@@ -107794,8 +106955,7 @@
     "name": "라이카",
     "level": 141,
     "titles": [
-      "소",
-      "발굽 동물"
+      "소"
     ],
     "imagePath": "assets/monsters/8220006.png",
     "imageWidth": 243,
@@ -111503,7 +110663,8 @@
     "name": "오베론",
     "level": 175,
     "titles": [
-      "사람"
+      "사람",
+      "날개"
     ],
     "imagePath": "assets/monsters/9400376.png",
     "imageWidth": 236,
@@ -111715,7 +110876,8 @@
     "name": "핑크빈",
     "level": 180,
     "titles": [
-      "고양이"
+      "고양이",
+      "악마"
     ],
     "imagePath": "assets/monsters/8820001.png",
     "imageWidth": 89,
@@ -112563,7 +111725,8 @@
     "name": "아우프헤벤",
     "level": 180,
     "titles": [
-      "사람"
+      "사람",
+      "날개"
     ],
     "imagePath": "assets/monsters/9400289.png",
     "imageWidth": 236,
