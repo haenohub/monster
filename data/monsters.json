@@ -228,7 +228,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:19.818548+00:00",
-    "sortFamily": "family_001"
+    "sortFamily": "family_001",
+    "sortFamilyRank": 0
   },
   {
     "id": "100120",
@@ -305,7 +306,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100120",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:19.818893+00:00",
-    "sortFamily": "family_002"
+    "sortFamily": "family_002",
+    "sortFamilyRank": 0
   },
   {
     "id": "100130",
@@ -394,7 +396,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100130",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:19.819154+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 2
   },
   {
     "id": "100101",
@@ -641,7 +644,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:19.821792+00:00",
-    "sortFamily": "family_001"
+    "sortFamily": "family_001",
+    "sortFamilyRank": 1
   },
   {
     "id": "120100",
@@ -824,7 +828,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/120100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:21.425395+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 0
   },
   {
     "id": "100121",
@@ -901,7 +906,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100121",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:21.696707+00:00",
-    "sortFamily": "family_002"
+    "sortFamily": "family_002",
+    "sortFamilyRank": 1
   },
   {
     "id": "100131",
@@ -1002,7 +1008,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100131",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:21.801155+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 3
   },
   {
     "id": "130100",
@@ -1303,7 +1310,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/130100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:21.983917+00:00",
-    "sortFamily": "family_007"
+    "sortFamily": "family_007",
+    "sortFamilyRank": 0
   },
   {
     "id": "130101",
@@ -1600,7 +1608,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/130101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.062263+00:00",
-    "sortFamily": "family_001"
+    "sortFamily": "family_001",
+    "sortFamilyRank": 2
   },
   {
     "id": "100122",
@@ -1683,7 +1692,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100122",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.186063+00:00",
-    "sortFamily": "family_002"
+    "sortFamily": "family_002",
+    "sortFamilyRank": 2
   },
   {
     "id": "100132",
@@ -1808,7 +1818,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100132",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.328050+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 6
   },
   {
     "id": "150000",
@@ -1866,7 +1877,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/150000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.502104+00:00",
-    "sortFamily": "family_008"
+    "sortFamily": "family_059",
+    "sortFamilyRank": 0
   },
   {
     "id": "150001",
@@ -1924,7 +1936,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/150001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.633296+00:00",
-    "sortFamily": "family_008"
+    "sortFamily": "family_059",
+    "sortFamilyRank": 1
   },
   {
     "id": "210100",
@@ -2270,7 +2283,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/210100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.725505+00:00",
-    "sortFamily": "family_009"
+    "sortFamily": "family_009",
+    "sortFamilyRank": 1
   },
   {
     "id": "100123",
@@ -2353,7 +2367,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100123",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.804244+00:00",
-    "sortFamily": "family_002"
+    "sortFamily": "family_002",
+    "sortFamilyRank": 3
   },
   {
     "id": "100133",
@@ -2478,7 +2493,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100133",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:22.998766+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 7
   },
   {
     "id": "1210100",
@@ -2714,7 +2730,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1210100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:23.148565+00:00",
-    "sortFamily": "family_010"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 0
   },
   {
     "id": "150002",
@@ -3002,7 +3019,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1210102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:23.388320+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 4
   },
   {
     "id": "9300274",
@@ -3151,7 +3169,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300274",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:23.472755+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 5
   },
   {
     "id": "9420001",
@@ -3291,7 +3310,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:23.618520+00:00",
-    "sortFamily": "visual_023"
+    "sortFamily": "visual_023",
+    "sortFamilyRank": 0
   },
   {
     "id": "100124",
@@ -3374,7 +3394,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100124",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:23.657659+00:00",
-    "sortFamily": "family_002"
+    "sortFamily": "family_002",
+    "sortFamilyRank": 4
   },
   {
     "id": "100134",
@@ -3481,7 +3502,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/100134",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:23.718657+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 8
   },
   {
     "id": "1110101",
@@ -3749,7 +3771,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1110101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:23.792399+00:00",
-    "sortFamily": "family_007"
+    "sortFamily": "family_007",
+    "sortFamilyRank": 1
   },
   {
     "id": "1210101",
@@ -3975,7 +3998,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1210101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:24.030308+00:00",
-    "sortFamily": "family_010"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400573",
@@ -4104,7 +4128,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400573",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:24.110396+00:00"
+    "checkedAt": "2026-11-15T16:42:24.110396+00:00",
+    "sortFamily": "family_133",
+    "sortFamilyRank": 0
   },
   {
     "id": "9500317",
@@ -4150,7 +4176,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9500317",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:24.136769+00:00",
-    "sortFamily": "visual_024"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 3
   },
   {
     "id": "1120100",
@@ -4769,7 +4796,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1110100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:24.522262+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 2
   },
   {
     "id": "1210103",
@@ -4975,7 +5003,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1210103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:24.527215+00:00",
-    "sortFamily": "family_009"
+    "sortFamily": "family_009",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420005",
@@ -5210,7 +5239,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1150001",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:24.723188+00:00"
+    "checkedAt": "2026-11-15T16:42:24.723188+00:00",
+    "sortFamily": "family_111",
+    "sortFamilyRank": 0
   },
   {
     "id": "1130100",
@@ -5496,7 +5527,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1130100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:24.839886+00:00",
-    "sortFamily": "family_007"
+    "sortFamily": "family_007",
+    "sortFamilyRank": 2
   },
   {
     "id": "1150002",
@@ -5573,7 +5605,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1150002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:24.926672+00:00",
-    "sortFamily": "family_015"
+    "sortFamily": "family_015",
+    "sortFamilyRank": 4
   },
   {
     "id": "9420502",
@@ -5968,7 +6001,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/1140100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.193320+00:00",
-    "sortFamily": "family_007"
+    "sortFamily": "family_007",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400538",
@@ -6056,7 +6090,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400538",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.201228+00:00",
-    "sortFamily": "family_009"
+    "sortFamily": "family_009",
+    "sortFamilyRank": 4
   },
   {
     "id": "2100100",
@@ -6233,7 +6268,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2100100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.252485+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 4
   },
   {
     "id": "2150000",
@@ -6691,7 +6727,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2220000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.508668+00:00",
-    "sortFamily": "family_001"
+    "sortFamily": "family_001",
+    "sortFamilyRank": 4
   },
   {
     "id": "2220100",
@@ -6977,7 +7014,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2220100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.578745+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 6
   },
   {
     "id": "2220110",
@@ -7198,7 +7236,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2220110",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.677597+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 7
   },
   {
     "id": "2300100",
@@ -7411,7 +7450,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2300100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.788920+00:00",
-    "sortFamily": "visual_017"
+    "sortFamily": "visual_017",
+    "sortFamilyRank": 0
   },
   {
     "id": "9600001",
@@ -7752,7 +7792,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2100101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.902776+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 5
   },
   {
     "id": "2130103",
@@ -7988,7 +8029,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2130103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:25.998447+00:00",
-    "sortFamily": "family_015"
+    "sortFamily": "family_015",
+    "sortFamilyRank": 0
   },
   {
     "id": "9400539",
@@ -8158,7 +8200,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400539",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:26.126889+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 8
   },
   {
     "id": "2100102",
@@ -8652,7 +8695,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2110200",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:26.227091+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 3
   },
   {
     "id": "2130100",
@@ -8991,7 +9035,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2130100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:26.315600+00:00",
-    "sortFamily": "family_007"
+    "sortFamily": "family_007",
+    "sortFamilyRank": 4
   },
   {
     "id": "2150001",
@@ -9629,7 +9674,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9600002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:26.562420+00:00",
-    "sortFamily": "family_002"
+    "sortFamily": "family_002",
+    "sortFamilyRank": 5
   },
   {
     "id": "2100105",
@@ -9824,7 +9870,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2100105",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:26.636928+00:00",
-    "sortFamily": "family_015"
+    "sortFamily": "family_015",
+    "sortFamilyRank": 3
   },
   {
     "id": "2230103",
@@ -10059,7 +10106,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2230103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:26.749593+00:00",
-    "sortFamily": "family_027"
+    "sortFamily": "family_027",
+    "sortFamilyRank": 0
   },
   {
     "id": "2230105",
@@ -10778,7 +10826,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:27.067687+00:00",
-    "sortFamily": "family_018"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 1
   },
   {
     "id": "9410039",
@@ -10833,7 +10882,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410039",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:27.092161+00:00",
-    "sortFamily": "family_009"
+    "sortFamily": "family_009",
+    "sortFamilyRank": 5
   },
   {
     "id": "9420506",
@@ -10997,7 +11047,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420506",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:27.236693+00:00",
-    "sortFamily": "visual_017"
+    "sortFamily": "visual_017",
+    "sortFamilyRank": 2
   },
   {
     "id": "2100106",
@@ -11177,7 +11228,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2100106",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:27.257539+00:00",
-    "sortFamily": "family_025"
+    "sortFamily": "family_025",
+    "sortFamilyRank": 0
   },
   {
     "id": "2110300",
@@ -11625,7 +11677,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2230101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:27.393060+00:00",
-    "sortFamily": "family_005"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 9
   },
   {
     "id": "2230107",
@@ -12250,7 +12303,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2230131",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:27.697739+00:00",
-    "sortFamily": "family_005"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 10
   },
   {
     "id": "2100103",
@@ -12785,7 +12839,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2230102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:27.907855+00:00",
-    "sortFamily": "family_011"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 3
   },
   {
     "id": "2230106",
@@ -13315,7 +13370,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400400",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:28.234076+00:00",
-    "sortFamily": "family_104"
+    "sortFamily": "family_104",
+    "sortFamilyRank": 0
   },
   {
     "id": "9400540",
@@ -13619,7 +13675,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:28.338803+00:00",
-    "sortFamily": "family_018"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 2
   },
   {
     "id": "9420004",
@@ -14137,7 +14194,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2100107",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:28.578644+00:00",
-    "sortFamily": "family_025"
+    "sortFamily": "family_025",
+    "sortFamilyRank": 1
   },
   {
     "id": "2230100",
@@ -14950,7 +15008,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/2230104",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:28.959058+00:00",
-    "sortFamily": "family_027"
+    "sortFamily": "family_027",
+    "sortFamilyRank": 1
   },
   {
     "id": "2230109",
@@ -15319,7 +15378,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:29.213378+00:00",
-    "sortFamily": "visual_023"
+    "sortFamily": "visual_023",
+    "sortFamilyRank": 2
   },
   {
     "id": "9420500",
@@ -15490,7 +15550,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420500",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:29.250173+00:00",
-    "sortFamily": "family_111"
+    "sortFamily": "family_111",
+    "sortFamilyRank": 1
   },
   {
     "id": "2100108",
@@ -16373,7 +16434,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3000001",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:29.588944+00:00"
+    "checkedAt": "2026-11-15T16:42:29.588944+00:00",
+    "sortFamily": "family_159",
+    "sortFamilyRank": 0
   },
   {
     "id": "3000005",
@@ -16572,7 +16635,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3000005",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:29.618695+00:00",
-    "sortFamily": "family_040"
+    "sortFamily": "family_040",
+    "sortFamilyRank": 0
   },
   {
     "id": "3000006",
@@ -17242,7 +17306,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230400",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:29.898969+00:00"
+    "checkedAt": "2026-11-15T16:42:29.898969+00:00",
+    "sortFamily": "progression_006",
+    "sortFamilyRank": 0
   },
   {
     "id": "3300000",
@@ -17410,7 +17476,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:29.936433+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 1
   },
   {
     "id": "3300001",
@@ -17592,7 +17659,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:30.168316+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 11
   },
   {
     "id": "5200001",
@@ -18285,7 +18353,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:30.491984+00:00",
-    "sortFamily": "family_055"
+    "sortFamily": "family_055",
+    "sortFamilyRank": 0
   },
   {
     "id": "9400404",
@@ -18450,7 +18519,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400404",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:30.514476+00:00"
+    "checkedAt": "2026-11-15T16:42:30.514476+00:00",
+    "sortFamily": "progression_003",
+    "sortFamilyRank": 0
   },
   {
     "id": "9400548",
@@ -18596,7 +18667,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400548",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:30.537821+00:00",
-    "sortFamily": "family_057"
+    "sortFamily": "family_057",
+    "sortFamilyRank": 3
   },
   {
     "id": "9600004",
@@ -19257,7 +19329,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:30.847996+00:00",
-    "sortFamily": "family_010"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 2
   },
   {
     "id": "3100101",
@@ -19455,7 +19528,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3100101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:30.913515+00:00",
-    "sortFamily": "family_061"
+    "sortFamily": "family_061",
+    "sortFamilyRank": 0
   },
   {
     "id": "3110100",
@@ -19681,7 +19755,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3110100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.116356+00:00",
-    "sortFamily": "family_049"
+    "sortFamily": "family_049",
+    "sortFamilyRank": 0
   },
   {
     "id": "3110101",
@@ -19932,7 +20007,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3110101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.161690+00:00",
-    "sortFamily": "family_040"
+    "sortFamily": "family_040",
+    "sortFamilyRank": 1
   },
   {
     "id": "3110102",
@@ -20173,7 +20249,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3110102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.164555+00:00",
-    "sortFamily": "family_041"
+    "sortFamily": "family_041",
+    "sortFamilyRank": 0
   },
   {
     "id": "3110300",
@@ -20385,7 +20462,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3110300",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.234622+00:00",
-    "sortFamily": "family_009"
+    "sortFamily": "family_009",
+    "sortFamilyRank": 0
   },
   {
     "id": "3110301",
@@ -20573,7 +20651,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3110301",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.442665+00:00",
-    "sortFamily": "family_061"
+    "sortFamily": "family_061",
+    "sortFamilyRank": 1
   },
   {
     "id": "3210100",
@@ -20853,7 +20932,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.487021+00:00",
-    "sortFamily": "family_011"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 4
   },
   {
     "id": "3230104",
@@ -21302,7 +21382,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.550281+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 7
   },
   {
     "id": "5300000",
@@ -21546,7 +21627,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5300000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.757478+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 0
   },
   {
     "id": "3150001",
@@ -21864,7 +21946,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210200",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.821437+00:00",
-    "sortFamily": "family_033"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 0
   },
   {
     "id": "3210201",
@@ -22082,7 +22165,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210201",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:31.872264+00:00",
-    "sortFamily": "family_033"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 1
   },
   {
     "id": "3210202",
@@ -22318,7 +22402,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210202",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.077143+00:00",
-    "sortFamily": "family_033"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 2
   },
   {
     "id": "3300004",
@@ -22522,7 +22607,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.148090+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 8
   },
   {
     "id": "5300001",
@@ -22730,7 +22816,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5300001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.149149+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_003",
+    "sortFamilyRank": 1
   },
   {
     "id": "9420503",
@@ -22901,7 +22988,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420503",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.194757+00:00",
-    "sortFamily": "family_111"
+    "sortFamily": "family_111",
+    "sortFamilyRank": 3
   },
   {
     "id": "9600006",
@@ -23073,7 +23161,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9600006",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.388278+00:00",
-    "sortFamily": "family_038"
+    "sortFamily": "family_038",
+    "sortFamilyRank": 0
   },
   {
     "id": "3210204",
@@ -23300,7 +23389,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210204",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.476902+00:00",
-    "sortFamily": "family_002"
+    "sortFamily": "family_002",
+    "sortFamilyRank": 6
   },
   {
     "id": "3210205",
@@ -23581,7 +23671,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210205",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.480055+00:00",
-    "sortFamily": "family_041"
+    "sortFamily": "family_041",
+    "sortFamilyRank": 1
   },
   {
     "id": "3210207",
@@ -23826,7 +23917,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210207",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.514173+00:00",
-    "sortFamily": "family_042"
+    "sortFamily": "family_042",
+    "sortFamilyRank": 0
   },
   {
     "id": "3110302",
@@ -24499,7 +24591,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3220000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:32.811864+00:00",
-    "sortFamily": "family_007"
+    "sortFamily": "family_007",
+    "sortFamilyRank": 6
   },
   {
     "id": "3230100",
@@ -25009,7 +25102,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.048650+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 0
   },
   {
     "id": "3230200",
@@ -25279,7 +25373,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230200",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.143034+00:00",
-    "sortFamily": "family_159"
+    "sortFamily": "family_159",
+    "sortFamilyRank": 1
   },
   {
     "id": "3230300",
@@ -25711,7 +25806,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230302",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.174286+00:00",
-    "sortFamily": "family_044"
+    "sortFamily": "family_044",
+    "sortFamilyRank": 0
   },
   {
     "id": "3300005",
@@ -25884,7 +25980,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300005",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.370564+00:00",
-    "sortFamily": "family_081"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 12
   },
   {
     "id": "3300006",
@@ -26201,7 +26298,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300006",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.511741+00:00",
-    "sortFamily": "family_081"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 13
   },
   {
     "id": "3300007",
@@ -26572,7 +26670,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300007",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.523667+00:00",
-    "sortFamily": "family_081"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 14
   },
   {
     "id": "5400000",
@@ -26818,7 +26917,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5400000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.684962+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 1
   },
   {
     "id": "9600005",
@@ -27233,7 +27333,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210203",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.876907+00:00",
-    "sortFamily": "family_040"
+    "sortFamily": "family_040",
+    "sortFamilyRank": 2
   },
   {
     "id": "3210206",
@@ -27487,7 +27588,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210206",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:33.878093+00:00",
-    "sortFamily": "family_043"
+    "sortFamily": "family_043",
+    "sortFamilyRank": 0
   },
   {
     "id": "3210208",
@@ -27728,7 +27830,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210208",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.005691+00:00",
-    "sortFamily": "family_041"
+    "sortFamily": "family_041",
+    "sortFamilyRank": 2
   },
   {
     "id": "3210450",
@@ -27951,7 +28054,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210450",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.219888+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400542",
@@ -28224,7 +28328,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410009",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.331160+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 0
   },
   {
     "id": "9410011",
@@ -28381,7 +28486,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410011",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.548629+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 0
   },
   {
     "id": "3210800",
@@ -28717,7 +28823,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3210800",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.559217+00:00",
-    "sortFamily": "family_053"
+    "sortFamily": "family_053",
+    "sortFamilyRank": 0
   },
   {
     "id": "3230303",
@@ -28989,7 +29096,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230303",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.561520+00:00",
-    "sortFamily": "family_043"
+    "sortFamily": "family_043",
+    "sortFamilyRank": 1
   },
   {
     "id": "3230306",
@@ -29232,7 +29340,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230306",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:34.641001+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 2
   },
   {
     "id": "9600008",
@@ -30094,7 +30203,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:35.241873+00:00",
-    "sortFamily": "family_044"
+    "sortFamily": "family_044",
+    "sortFamilyRank": 1
   },
   {
     "id": "3230304",
@@ -30346,7 +30456,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230304",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:35.261685+00:00",
-    "sortFamily": "family_043"
+    "sortFamily": "family_043",
+    "sortFamilyRank": 2
   },
   {
     "id": "3230405",
@@ -30571,7 +30682,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230405",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:35.265858+00:00",
-    "sortFamily": "family_151"
+    "sortFamily": "family_151",
+    "sortFamilyRank": 0
   },
   {
     "id": "3300008",
@@ -30894,7 +31006,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3300008",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:35.279103+00:00",
-    "sortFamily": "family_006"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 16
   },
   {
     "id": "3400003",
@@ -31836,7 +31949,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420501",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:35.982272+00:00",
-    "sortFamily": "family_111"
+    "sortFamily": "family_111",
+    "sortFamilyRank": 2
   },
   {
     "id": "9600007",
@@ -32004,7 +32118,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9600007",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:35.985401+00:00",
-    "sortFamily": "family_038"
+    "sortFamily": "family_038",
+    "sortFamilyRank": 1
   },
   {
     "id": "3230305",
@@ -32258,7 +32373,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/3230305",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:35.986223+00:00"
+    "checkedAt": "2026-11-15T16:42:35.986223+00:00",
+    "sortFamily": "progression_005",
+    "sortFamilyRank": 0
   },
   {
     "id": "3230308",
@@ -33131,7 +33248,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:36.328154+00:00",
-    "sortFamily": "family_053"
+    "sortFamily": "family_053",
+    "sortFamilyRank": 1
   },
   {
     "id": "4230113",
@@ -33368,7 +33486,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230113",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:36.508129+00:00",
-    "sortFamily": "family_042"
+    "sortFamily": "family_042",
+    "sortFamilyRank": 1
   },
   {
     "id": "4230116",
@@ -33618,7 +33737,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230116",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:36.667984+00:00",
-    "sortFamily": "family_120"
+    "sortFamily": "family_120",
+    "sortFamilyRank": 0
   },
   {
     "id": "4230200",
@@ -34508,7 +34628,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230600",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.013717+00:00",
-    "sortFamily": "family_061"
+    "sortFamily": "family_061",
+    "sortFamilyRank": 2
   },
   {
     "id": "9300003",
@@ -34580,7 +34701,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.026166+00:00",
-    "sortFamily": "family_009"
+    "sortFamily": "family_009",
+    "sortFamilyRank": 6
   },
   {
     "id": "9400011",
@@ -34890,7 +35012,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.143322+00:00",
-    "sortFamily": "family_054"
+    "sortFamily": "family_053",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420003",
@@ -35302,7 +35425,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230107",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.348376+00:00",
-    "sortFamily": "visual_017"
+    "sortFamily": "visual_017",
+    "sortFamilyRank": 1
   },
   {
     "id": "4230111",
@@ -35553,7 +35677,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230111",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.351177+00:00",
-    "sortFamily": "family_046"
+    "sortFamily": "family_046",
+    "sortFamilyRank": 3
   },
   {
     "id": "4230114",
@@ -35784,7 +35909,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230114",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.454442+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 4
   },
   {
     "id": "4230119",
@@ -36237,7 +36363,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230501",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.692347+00:00",
-    "sortFamily": "family_035"
+    "sortFamily": "family_035",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400543",
@@ -36871,7 +36998,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:37.974523+00:00",
-    "sortFamily": "family_011"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 5
   },
   {
     "id": "4230105",
@@ -37089,7 +37217,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230105",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.027075+00:00",
-    "sortFamily": "family_057"
+    "sortFamily": "family_057",
+    "sortFamilyRank": 0
   },
   {
     "id": "4230109",
@@ -37330,7 +37459,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230109",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.030188+00:00",
-    "sortFamily": "family_044"
+    "sortFamily": "family_044",
+    "sortFamilyRank": 2
   },
   {
     "id": "4230117",
@@ -37582,7 +37712,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230117",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.080546+00:00",
-    "sortFamily": "family_120"
+    "sortFamily": "family_120",
+    "sortFamilyRank": 1
   },
   {
     "id": "4230124",
@@ -37825,7 +37956,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230124",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.295459+00:00",
-    "sortFamily": "family_151"
+    "sortFamily": "family_151",
+    "sortFamilyRank": 2
   },
   {
     "id": "4250000",
@@ -37907,7 +38039,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4250000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.395414+00:00",
-    "sortFamily": "family_001"
+    "sortFamily": "family_001",
+    "sortFamilyRank": 3
   },
   {
     "id": "9410002",
@@ -38049,7 +38182,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.402365+00:00",
-    "sortFamily": "family_018"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 3
   },
   {
     "id": "4230108",
@@ -38287,7 +38421,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230108",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.406439+00:00",
-    "sortFamily": "family_019"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 0
   },
   {
     "id": "4230123",
@@ -38500,7 +38635,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230123",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.611339+00:00",
-    "sortFamily": "family_151"
+    "sortFamily": "family_151",
+    "sortFamilyRank": 1
   },
   {
     "id": "4230502",
@@ -38692,7 +38828,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230502",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.719121+00:00",
-    "sortFamily": "family_035"
+    "sortFamily": "family_035",
+    "sortFamilyRank": 3
   },
   {
     "id": "4300006",
@@ -38938,7 +39075,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4300006",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.732304+00:00",
-    "sortFamily": "family_108"
+    "sortFamily": "family_108",
+    "sortFamilyRank": 0
   },
   {
     "id": "9420508",
@@ -39387,7 +39525,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230112",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:38.925851+00:00",
-    "sortFamily": "family_046"
+    "sortFamily": "family_046",
+    "sortFamilyRank": 4
   },
   {
     "id": "4230120",
@@ -39873,7 +40012,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230125",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:39.071030+00:00",
-    "sortFamily": "family_020"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 4
   },
   {
     "id": "4300007",
@@ -40115,7 +40255,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4300007",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:39.082007+00:00",
-    "sortFamily": "family_108"
+    "sortFamily": "family_108",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400546",
@@ -40901,7 +41042,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4220000",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:39.415364+00:00"
+    "checkedAt": "2026-11-15T16:42:39.415364+00:00",
+    "sortFamily": "progression_004",
+    "sortFamilyRank": 0
   },
   {
     "id": "4230106",
@@ -41187,7 +41330,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230106",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:39.547524+00:00",
-    "sortFamily": "family_159"
+    "sortFamily": "family_159",
+    "sortFamilyRank": 2
   },
   {
     "id": "4230110",
@@ -41452,7 +41596,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230110",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:39.739505+00:00",
-    "sortFamily": "family_044"
+    "sortFamily": "family_044",
+    "sortFamilyRank": 3
   },
   {
     "id": "4230118",
@@ -41706,7 +41851,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230118",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:39.742899+00:00",
-    "sortFamily": "family_120"
+    "sortFamily": "family_120",
+    "sortFamilyRank": 2
   },
   {
     "id": "4230300",
@@ -41927,7 +42073,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230300",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:39.777700+00:00"
+    "checkedAt": "2026-11-15T16:42:39.777700+00:00",
+    "sortFamily": "progression_006",
+    "sortFamilyRank": 1
   },
   {
     "id": "4230400",
@@ -42118,7 +42266,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230400",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:39.860090+00:00",
-    "sortFamily": "family_011"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 6
   },
   {
     "id": "4230503",
@@ -42301,7 +42450,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230503",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:40.067858+00:00",
-    "sortFamily": "family_016"
+    "sortFamily": "family_015",
+    "sortFamilyRank": 2
   },
   {
     "id": "4230504",
@@ -42484,7 +42634,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230504",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:40.071615+00:00",
-    "sortFamily": "family_016"
+    "sortFamily": "family_015",
+    "sortFamilyRank": 1
   },
   {
     "id": "4300008",
@@ -42726,7 +42877,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4300008",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:40.099656+00:00",
-    "sortFamily": "family_108"
+    "sortFamily": "family_108",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400004",
@@ -42856,7 +43008,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:40.181142+00:00",
-    "sortFamily": "family_055"
+    "sortFamily": "family_055",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400100",
@@ -43018,7 +43171,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:40.396128+00:00",
-    "sortFamily": "family_105"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 0
   },
   {
     "id": "9400583",
@@ -43478,7 +43632,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420527",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:40.487856+00:00"
+    "checkedAt": "2026-11-15T16:42:40.487856+00:00",
+    "sortFamily": "family_057",
+    "sortFamilyRank": 2
   },
   {
     "id": "4230115",
@@ -43727,7 +43883,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230115",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:40.722115+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 5
   },
   {
     "id": "4230121",
@@ -44067,7 +44224,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4250001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:40.775727+00:00",
-    "sortFamily": "family_007"
+    "sortFamily": "family_007",
+    "sortFamilyRank": 5
   },
   {
     "id": "4300009",
@@ -44458,7 +44616,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4110302",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.041657+00:00",
-    "sortFamily": "family_063"
+    "sortFamily": "family_063",
+    "sortFamilyRank": 0
   },
   {
     "id": "4130102",
@@ -44688,7 +44847,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4130102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.057678+00:00",
-    "sortFamily": "family_057"
+    "sortFamily": "family_057",
+    "sortFamilyRank": 1
   },
   {
     "id": "4130103",
@@ -44916,7 +45076,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4130103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.119690+00:00",
-    "sortFamily": "family_044"
+    "sortFamily": "family_044",
+    "sortFamilyRank": 4
   },
   {
     "id": "4230126",
@@ -45164,7 +45325,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230126",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.121793+00:00",
-    "sortFamily": "family_020"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 5
   },
   {
     "id": "4230505",
@@ -45340,7 +45502,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230505",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.366765+00:00",
-    "sortFamily": "family_059"
+    "sortFamily": "family_059",
+    "sortFamilyRank": 2
   },
   {
     "id": "4300010",
@@ -45754,7 +45917,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.451603+00:00",
-    "sortFamily": "family_105"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 1
   },
   {
     "id": "9410004",
@@ -45894,7 +46058,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9410004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.455367+00:00",
-    "sortFamily": "family_054"
+    "sortFamily": "family_053",
+    "sortFamilyRank": 4
   },
   {
     "id": "9420528",
@@ -46338,7 +46503,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.711731+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 3
   },
   {
     "id": "4230506",
@@ -46535,7 +46701,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4230506",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:41.771659+00:00",
-    "sortFamily": "family_059"
+    "sortFamily": "family_059",
+    "sortFamilyRank": 3
   },
   {
     "id": "4300011",
@@ -47249,7 +47416,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/4240000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:42.028958+00:00",
-    "sortFamily": "family_120"
+    "sortFamily": "family_120",
+    "sortFamilyRank": 3
   },
   {
     "id": "4300012",
@@ -47990,7 +48158,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5100000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:42.302508+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 1
   },
   {
     "id": "5100003",
@@ -48409,7 +48578,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5110300",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:42.427871+00:00",
-    "sortFamily": "family_063"
+    "sortFamily": "family_063",
+    "sortFamilyRank": 1
   },
   {
     "id": "5120503",
@@ -49188,7 +49358,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5220002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:42.674488+00:00",
-    "sortFamily": "family_053"
+    "sortFamily": "family_053",
+    "sortFamilyRank": 5
   },
   {
     "id": "9400102",
@@ -49316,7 +49487,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:42.756824+00:00",
-    "sortFamily": "family_105"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400401",
@@ -49488,7 +49660,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400401",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:42.757734+00:00",
-    "sortFamily": "family_104"
+    "sortFamily": "family_104",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400544",
@@ -49660,7 +49833,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400544",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:42.940622+00:00",
-    "sortFamily": "family_133"
+    "sortFamily": "family_133",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400586",
@@ -50702,7 +50876,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5250001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:43.618815+00:00",
-    "sortFamily": "family_153"
+    "sortFamily": "family_153",
+    "sortFamilyRank": 0
   },
   {
     "id": "5120000",
@@ -50956,7 +51131,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5120000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:43.756962+00:00",
-    "sortFamily": "family_159"
+    "sortFamily": "family_159",
+    "sortFamilyRank": 3
   },
   {
     "id": "5130103",
@@ -51174,7 +51350,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5130103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:43.760256+00:00",
-    "sortFamily": "family_049"
+    "sortFamily": "family_049",
+    "sortFamilyRank": 1
   },
   {
     "id": "9420529",
@@ -51835,7 +52012,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5120001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.086363+00:00",
-    "sortFamily": "family_033"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 4
   },
   {
     "id": "5120002",
@@ -52071,7 +52249,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5120002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.087274+00:00",
-    "sortFamily": "family_033"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 5
   },
   {
     "id": "5120003",
@@ -52331,7 +52510,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5120003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.225298+00:00",
-    "sortFamily": "family_033"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 6
   },
   {
     "id": "5120501",
@@ -52497,7 +52677,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5120501",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.244089+00:00",
-    "sortFamily": "family_058"
+    "sortFamily": "family_058",
+    "sortFamilyRank": 0
   },
   {
     "id": "9420505",
@@ -52845,7 +53026,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5110301",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.413629+00:00",
-    "sortFamily": "family_046"
+    "sortFamily": "family_046",
+    "sortFamilyRank": 0
   },
   {
     "id": "5120100",
@@ -53274,7 +53456,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5120502",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.563334+00:00",
-    "sortFamily": "family_058"
+    "sortFamily": "family_058",
+    "sortFamilyRank": 1
   },
   {
     "id": "5120506",
@@ -53735,7 +53918,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5130101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.732378+00:00",
-    "sortFamily": "family_138"
+    "sortFamily": "family_138",
+    "sortFamilyRank": 0
   },
   {
     "id": "5130104",
@@ -53997,7 +54181,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5130104",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:44.885106+00:00",
-    "sortFamily": "family_021"
+    "sortFamily": "family_021",
+    "sortFamilyRank": 0
   },
   {
     "id": "5220000",
@@ -54341,7 +54526,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5220000",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:44.888797+00:00"
+    "checkedAt": "2026-11-15T16:42:44.888797+00:00",
+    "sortFamily": "progression_004",
+    "sortFamilyRank": 1
   },
   {
     "id": "5250000",
@@ -54529,7 +54716,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5250000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.053629+00:00",
-    "sortFamily": "family_004"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 12
   },
   {
     "id": "5300100",
@@ -54902,7 +55090,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400204",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.221660+00:00",
-    "sortFamily": "family_009"
+    "sortFamily": "family_009",
+    "sortFamilyRank": 2
   },
   {
     "id": "5090000",
@@ -54958,7 +55147,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5090000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.225471+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 7
   },
   {
     "id": "5100004",
@@ -55186,7 +55376,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5100004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.378161+00:00",
-    "sortFamily": "family_056"
+    "sortFamily": "family_055",
+    "sortFamilyRank": 2
   },
   {
     "id": "5120500",
@@ -55667,7 +55858,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5130105",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.594716+00:00",
-    "sortFamily": "family_003"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 2
   },
   {
     "id": "9300012",
@@ -55921,7 +56113,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420530",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.739489+00:00",
-    "sortFamily": "family_111"
+    "sortFamily": "family_111",
+    "sortFamilyRank": 4
   },
   {
     "id": "5130107",
@@ -56190,7 +56383,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5130107",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.740428+00:00",
-    "sortFamily": "family_086"
+    "sortFamily": "family_086",
+    "sortFamilyRank": 0
   },
   {
     "id": "5130108",
@@ -56471,7 +56665,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5130108",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:45.904097+00:00",
-    "sortFamily": "family_086"
+    "sortFamily": "family_086",
+    "sortFamilyRank": 1
   },
   {
     "id": "5150001",
@@ -56790,7 +56985,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5250002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.062123+00:00",
-    "sortFamily": "family_011"
+    "sortFamily": "family_010",
+    "sortFamilyRank": 7
   },
   {
     "id": "5110302",
@@ -56972,7 +57168,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5110302",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.065495+00:00",
-    "sortFamily": "family_046"
+    "sortFamily": "family_046",
+    "sortFamilyRank": 1
   },
   {
     "id": "5120505",
@@ -57451,7 +57648,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5130102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.240461+00:00",
-    "sortFamily": "family_138"
+    "sortFamily": "family_138",
+    "sortFamilyRank": 1
   },
   {
     "id": "5140000",
@@ -57773,7 +57971,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5140000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.371539+00:00",
-    "sortFamily": "family_021"
+    "sortFamily": "family_021",
+    "sortFamilyRank": 1
   },
   {
     "id": "9420509",
@@ -57962,7 +58161,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420509",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.410150+00:00",
-    "sortFamily": "family_084"
+    "sortFamily": "family_084",
+    "sortFamilyRank": 0
   },
   {
     "id": "5090001",
@@ -58245,7 +58445,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/5150000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.575590+00:00",
-    "sortFamily": "family_138"
+    "sortFamily": "family_138",
+    "sortFamilyRank": 2
   },
   {
     "id": "5220003",
@@ -58784,7 +58985,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420531",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.720756+00:00",
-    "sortFamily": "family_135"
+    "sortFamily": "family_135",
+    "sortFamilyRank": 0
   },
   {
     "id": "9420532",
@@ -58999,7 +59201,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420532",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.895183+00:00",
-    "sortFamily": "family_136"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 1
   },
   {
     "id": "6130100",
@@ -59464,7 +59667,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6130101",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:46.998429+00:00",
-    "sortFamily": "family_006"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 13
   },
   {
     "id": "6130102",
@@ -59700,7 +59904,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6130102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.029219+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 4
   },
   {
     "id": "6130103",
@@ -59926,7 +60131,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6130103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.228129+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 3
   },
   {
     "id": "6130201",
@@ -59981,7 +60187,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6130201",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.229218+00:00",
-    "sortFamily": "family_139"
+    "sortFamily": "family_139",
+    "sortFamilyRank": 0
   },
   {
     "id": "6130202",
@@ -60199,7 +60406,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6130202",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.307866+00:00",
-    "sortFamily": "family_139"
+    "sortFamily": "family_139",
+    "sortFamilyRank": 1
   },
   {
     "id": "6130203",
@@ -60728,7 +60936,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.551659+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400012",
@@ -61023,7 +61232,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400406",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.643348+00:00",
-    "sortFamily": "family_104"
+    "sortFamily": "family_104",
+    "sortFamilyRank": 2
   },
   {
     "id": "9410012",
@@ -61485,7 +61695,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.925282+00:00",
-    "sortFamily": "family_015"
+    "sortFamily": "family_015",
+    "sortFamilyRank": 5
   },
   {
     "id": "9420511",
@@ -61650,7 +61861,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420511",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:47.948104+00:00",
-    "sortFamily": "family_084"
+    "sortFamily": "family_084",
+    "sortFamilyRank": 1
   },
   {
     "id": "9500390",
@@ -62637,7 +62849,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6090003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:48.259722+00:00",
-    "sortFamily": "visual_004"
+    "sortFamily": "visual_004",
+    "sortFamilyRank": 1
   },
   {
     "id": "6130207",
@@ -62828,7 +63041,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6130207",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:48.559116+00:00"
+    "checkedAt": "2026-11-15T16:42:48.559116+00:00",
+    "sortFamily": "family_053",
+    "sortFamilyRank": 2
   },
   {
     "id": "6230100",
@@ -63271,7 +63486,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400110",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:48.594796+00:00",
-    "sortFamily": "family_106"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 4
   },
   {
     "id": "6090004",
@@ -63630,7 +63846,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6230400",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:48.892173+00:00",
-    "sortFamily": "family_077"
+    "sortFamily": "family_040",
+    "sortFamilyRank": 3
   },
   {
     "id": "6230401",
@@ -63719,7 +63936,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6230401",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:48.916321+00:00",
-    "sortFamily": "family_032"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 3
   },
   {
     "id": "6230602",
@@ -64169,7 +64387,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420510",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:48.950800+00:00",
-    "sortFamily": "family_084"
+    "sortFamily": "family_084",
+    "sortFamilyRank": 2
   },
   {
     "id": "6130204",
@@ -64410,7 +64629,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6130204",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.209074+00:00",
-    "sortFamily": "family_049"
+    "sortFamily": "family_049",
+    "sortFamilyRank": 2
   },
   {
     "id": "6230200",
@@ -64642,7 +64862,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6230200",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.280195+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 5
   },
   {
     "id": "6230201",
@@ -64850,7 +65071,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6230201",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.283917+00:00",
-    "sortFamily": "family_082"
+    "sortFamily": "family_082",
+    "sortFamilyRank": 6
   },
   {
     "id": "6230600",
@@ -65282,7 +65504,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400111",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.529950+00:00",
-    "sortFamily": "family_106"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 5
   },
   {
     "id": "6090000",
@@ -65346,7 +65569,9 @@
     "drops": [],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6090000",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:49.622892+00:00"
+    "checkedAt": "2026-11-15T16:42:49.622892+00:00",
+    "sortFamily": "visual_025",
+    "sortFamilyRank": 0
   },
   {
     "id": "6110300",
@@ -65906,7 +66131,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6220000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.630280+00:00",
-    "sortFamily": "family_049"
+    "sortFamily": "family_049",
+    "sortFamilyRank": 3
   },
   {
     "id": "6220001",
@@ -66336,7 +66562,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6300000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.966270+00:00",
-    "sortFamily": "family_079"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 4
   },
   {
     "id": "6300001",
@@ -66583,7 +66810,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6300001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.971360+00:00",
-    "sortFamily": "family_079"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 5
   },
   {
     "id": "6300002",
@@ -66771,7 +66999,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6300002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:49.972289+00:00",
-    "sortFamily": "family_079"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 6
   },
   {
     "id": "6300005",
@@ -66963,7 +67192,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6300005",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:50.204945+00:00",
-    "sortFamily": "family_006"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 14
   },
   {
     "id": "9300039",
@@ -67021,7 +67251,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300039",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:50.313422+00:00",
-    "sortFamily": "family_159"
+    "sortFamily": "family_159",
+    "sortFamilyRank": 4
   },
   {
     "id": "9300180",
@@ -67068,7 +67299,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300180",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:50.319900+00:00",
-    "sortFamily": "family_137"
+    "sortFamily": "family_138",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420534",
@@ -67892,7 +68124,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6150000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:50.699858+00:00",
-    "sortFamily": "family_115"
+    "sortFamily": "family_115",
+    "sortFamilyRank": 1
   },
   {
     "id": "6230500",
@@ -68191,7 +68424,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6230500",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:50.828185+00:00",
-    "sortFamily": "family_077"
+    "sortFamily": "family_040",
+    "sortFamilyRank": 4
   },
   {
     "id": "6110301",
@@ -68413,7 +68647,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6110301",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.019111+00:00",
-    "sortFamily": "visual_004"
+    "sortFamily": "visual_004",
+    "sortFamilyRank": 0
   },
   {
     "id": "6130208",
@@ -69137,7 +69372,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6400000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.146420+00:00",
-    "sortFamily": "family_079"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 7
   },
   {
     "id": "6400001",
@@ -69371,7 +69607,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6400001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.348731+00:00",
-    "sortFamily": "family_079"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 8
   },
   {
     "id": "6400002",
@@ -69555,7 +69792,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/6400002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.364513+00:00",
-    "sortFamily": "family_079"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 9
   },
   {
     "id": "9300105",
@@ -69877,7 +70115,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420512",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.464879+00:00",
-    "sortFamily": "family_084"
+    "sortFamily": "family_084",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420535",
@@ -70085,7 +70324,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420535",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.661398+00:00",
-    "sortFamily": "family_135"
+    "sortFamily": "family_135",
+    "sortFamilyRank": 1
   },
   {
     "id": "7130100",
@@ -70765,7 +71005,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130400",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.783109+00:00",
-    "sortFamily": "family_140"
+    "sortFamily": "family_139",
+    "sortFamilyRank": 2
   },
   {
     "id": "7130401",
@@ -70969,7 +71210,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130401",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.974126+00:00",
-    "sortFamily": "family_140"
+    "sortFamily": "family_139",
+    "sortFamilyRank": 3
   },
   {
     "id": "7130402",
@@ -71185,7 +71427,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130402",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:51.994742+00:00",
-    "sortFamily": "family_140"
+    "sortFamily": "family_139",
+    "sortFamilyRank": 4
   },
   {
     "id": "7130500",
@@ -71407,7 +71650,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130500",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.017647+00:00",
-    "sortFamily": "family_035"
+    "sortFamily": "family_035",
+    "sortFamilyRank": 0
   },
   {
     "id": "7150000",
@@ -71884,7 +72128,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7220001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.309229+00:00",
-    "sortFamily": "family_056"
+    "sortFamily": "family_055",
+    "sortFamilyRank": 3
   },
   {
     "id": "8140200",
@@ -72170,7 +72415,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8140200",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.337116+00:00",
-    "sortFamily": "family_072"
+    "sortFamily": "family_042",
+    "sortFamilyRank": 2
   },
   {
     "id": "9300106",
@@ -72462,7 +72708,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400576",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.407859+00:00",
-    "sortFamily": "visual_020"
+    "sortFamily": "visual_020",
+    "sortFamilyRank": 0
   },
   {
     "id": "7220000",
@@ -73067,7 +73314,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.657477+00:00",
-    "sortFamily": "family_019"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 6
   },
   {
     "id": "7130002",
@@ -73268,7 +73516,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.667452+00:00",
-    "sortFamily": "family_153"
+    "sortFamily": "family_153",
+    "sortFamilyRank": 1
   },
   {
     "id": "7130600",
@@ -73551,7 +73800,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7150001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.934726+00:00",
-    "sortFamily": "family_027"
+    "sortFamily": "family_027",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400103",
@@ -73749,7 +73999,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400103",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:52.974195+00:00",
-    "sortFamily": "family_105"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420536",
@@ -73986,7 +74237,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420536",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:53.018181+00:00",
-    "sortFamily": "family_136"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 3
   },
   {
     "id": "7110301",
@@ -74541,7 +74793,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:53.241017+00:00",
-    "sortFamily": "family_032"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 7
   },
   {
     "id": "7130103",
@@ -75285,7 +75538,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130501",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:53.367957+00:00",
-    "sortFamily": "family_035"
+    "sortFamily": "family_035",
+    "sortFamilyRank": 1
   },
   {
     "id": "7150002",
@@ -75373,7 +75627,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7150002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:53.554388+00:00",
-    "sortFamily": "family_136"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 0
   },
   {
     "id": "7090000",
@@ -75436,7 +75691,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7090000",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:53.606911+00:00"
+    "checkedAt": "2026-11-15T16:42:53.606911+00:00",
+    "sortFamily": "family_115",
+    "sortFamilyRank": 0
   },
   {
     "id": "7110300",
@@ -75722,7 +75979,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7110300",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:53.639642+00:00",
-    "sortFamily": "family_067"
+    "sortFamily": "family_067",
+    "sortFamilyRank": 0
   },
   {
     "id": "7130101",
@@ -76260,7 +76518,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130200",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:53.857354+00:00",
-    "sortFamily": "family_022"
+    "sortFamily": "family_021",
+    "sortFamilyRank": 2
   },
   {
     "id": "9300181",
@@ -76307,7 +76566,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300181",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:53.919672+00:00",
-    "sortFamily": "family_137"
+    "sortFamily": "family_138",
+    "sortFamilyRank": 4
   },
   {
     "id": "9420537",
@@ -76710,7 +76970,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:54.001919+00:00",
-    "sortFamily": "family_153"
+    "sortFamily": "family_153",
+    "sortFamilyRank": 2
   },
   {
     "id": "7130601",
@@ -77278,7 +77539,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8140300",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:54.273511+00:00",
-    "sortFamily": "family_072"
+    "sortFamily": "family_042",
+    "sortFamilyRank": 3
   },
   {
     "id": "6400100",
@@ -78547,7 +78809,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130102",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:54.639721+00:00",
-    "sortFamily": "family_080"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 10
   },
   {
     "id": "7150004",
@@ -78665,7 +78928,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7150004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:54.808106+00:00",
-    "sortFamily": "family_115"
+    "sortFamily": "family_115",
+    "sortFamilyRank": 2
   },
   {
     "id": "8090000",
@@ -78729,7 +78993,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8090000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:54.849540+00:00",
-    "sortFamily": "family_067"
+    "sortFamily": "family_067",
+    "sortFamilyRank": 1
   },
   {
     "id": "8110300",
@@ -79506,7 +79771,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8140000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.123406+00:00",
-    "sortFamily": "family_022"
+    "sortFamily": "family_021",
+    "sortFamilyRank": 3
   },
   {
     "id": "8140001",
@@ -80364,7 +80630,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400402",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.526552+00:00",
-    "sortFamily": "family_104"
+    "sortFamily": "family_104",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400545",
@@ -80581,7 +80848,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400545",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.615751+00:00",
-    "sortFamily": "family_027"
+    "sortFamily": "family_027",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400581",
@@ -80728,7 +80996,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400581",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.783559+00:00",
-    "sortFamily": "visual_018"
+    "sortFamily": "visual_018",
+    "sortFamilyRank": 0
   },
   {
     "id": "9420542",
@@ -80775,7 +81044,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420542",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.808711+00:00",
-    "sortFamily": "family_134"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 5
   },
   {
     "id": "9420547",
@@ -80822,7 +81092,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420547",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.842310+00:00",
-    "sortFamily": "family_135"
+    "sortFamily": "family_135",
+    "sortFamilyRank": 3
   },
   {
     "id": "8105000",
@@ -81329,7 +81600,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8140100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:56.124829+00:00",
-    "sortFamily": "family_080"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 11
   },
   {
     "id": "9420538",
@@ -81532,7 +81804,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420538",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:56.141479+00:00",
-    "sortFamily": "family_135"
+    "sortFamily": "family_135",
+    "sortFamilyRank": 2
   },
   {
     "id": "7140000",
@@ -81796,7 +82069,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7140000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:56.251466+00:00",
-    "sortFamily": "family_074"
+    "sortFamily": "family_074",
+    "sortFamilyRank": 0
   },
   {
     "id": "8140002",
@@ -82362,7 +82636,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:56.448406+00:00",
-    "sortFamily": "family_032"
+    "sortFamily": "family_033",
+    "sortFamilyRank": 8
   },
   {
     "id": "7130010",
@@ -82722,7 +82997,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130010",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:56.481924+00:00",
-    "sortFamily": "family_077"
+    "sortFamily": "family_040",
+    "sortFamilyRank": 5
   },
   {
     "id": "7130020",
@@ -83656,7 +83932,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300182",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:56.806429+00:00",
-    "sortFamily": "family_137"
+    "sortFamily": "family_138",
+    "sortFamilyRank": 5
   },
   {
     "id": "9410015",
@@ -83896,7 +84173,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420514",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:57.076959+00:00",
-    "sortFamily": "family_147"
+    "sortFamily": "family_147",
+    "sortFamilyRank": 0
   },
   {
     "id": "7160000",
@@ -84202,7 +84480,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7160000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:57.112687+00:00",
-    "sortFamily": "family_074"
+    "sortFamily": "family_074",
+    "sortFamilyRank": 1
   },
   {
     "id": "8105001",
@@ -84348,7 +84627,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8105001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:57.127907+00:00",
-    "sortFamily": "family_116"
+    "sortFamily": "family_115",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420539",
@@ -84509,7 +84789,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420539",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:57.187911+00:00",
-    "sortFamily": "family_136"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 2
   },
   {
     "id": "8140101",
@@ -85765,7 +86046,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/7130300",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:57.705882+00:00",
-    "sortFamily": "family_077"
+    "sortFamily": "family_040",
+    "sortFamilyRank": 6
   },
   {
     "id": "8105002",
@@ -85917,7 +86199,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8105002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:57.810167+00:00",
-    "sortFamily": "family_116"
+    "sortFamily": "family_115",
+    "sortFamilyRank": 4
   },
   {
     "id": "8140500",
@@ -86179,7 +86462,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8140500",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:57.837665+00:00",
-    "sortFamily": "family_019"
+    "sortFamily": "family_018",
+    "sortFamilyRank": 7
   },
   {
     "id": "8140700",
@@ -86751,7 +87035,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.021622+00:00",
-    "sortFamily": "visual_024"
+    "sortFamily": "family_079",
+    "sortFamilyRank": 15
   },
   {
     "id": "9400205",
@@ -86840,7 +87125,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400205",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.124803+00:00",
-    "sortFamily": "family_006"
+    "sortFamily": "family_004",
+    "sortFamilyRank": 15
   },
   {
     "id": "9400577",
@@ -86887,7 +87173,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400577",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.163055+00:00",
-    "sortFamily": "family_145"
+    "sortFamily": "visual_020",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400578",
@@ -86985,7 +87272,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400578",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.166430+00:00",
-    "sortFamily": "family_145"
+    "sortFamily": "visual_020",
+    "sortFamilyRank": 2
   },
   {
     "id": "9420515",
@@ -87150,7 +87438,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420515",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.365720+00:00",
-    "sortFamily": "family_153"
+    "sortFamily": "family_153",
+    "sortFamilyRank": 3
   },
   {
     "id": "9500391",
@@ -87856,7 +88145,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.471197+00:00",
-    "sortFamily": "family_100"
+    "sortFamily": "family_100",
+    "sortFamilyRank": 0
   },
   {
     "id": "8140600",
@@ -88246,7 +88536,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8105003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.682016+00:00",
-    "sortFamily": "family_046"
+    "sortFamily": "family_046",
+    "sortFamilyRank": 5
   },
   {
     "id": "8140701",
@@ -88780,7 +89071,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8141000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.794368+00:00",
-    "sortFamily": "family_075"
+    "sortFamily": "family_074",
+    "sortFamilyRank": 2
   },
   {
     "id": "8141300",
@@ -89279,7 +89571,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.990888+00:00",
-    "sortFamily": "family_100"
+    "sortFamily": "family_100",
+    "sortFamilyRank": 1
   },
   {
     "id": "9420540",
@@ -89458,7 +89751,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420540",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:59.070195+00:00",
-    "sortFamily": "family_136"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 4
   },
   {
     "id": "8140702",
@@ -89960,7 +90254,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8142000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:59.149764+00:00",
-    "sortFamily": "family_073"
+    "sortFamily": "family_042",
+    "sortFamilyRank": 4
   },
   {
     "id": "9400120",
@@ -90120,7 +90415,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400120",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:59.299975+00:00"
+    "checkedAt": "2026-11-15T16:42:59.299975+00:00",
+    "sortFamily": "family_105",
+    "sortFamilyRank": 8
   },
   {
     "id": "9400580",
@@ -90261,7 +90558,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400580",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:59.384438+00:00",
-    "sortFamily": "family_031"
+    "sortFamily": "family_031",
+    "sortFamilyRank": 6
   },
   {
     "id": "9420516",
@@ -90552,7 +90850,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8105004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:59.467159+00:00",
-    "sortFamily": "family_046"
+    "sortFamily": "family_046",
+    "sortFamilyRank": 2
   },
   {
     "id": "8140703",
@@ -91274,7 +91573,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8150300",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:59.735477+00:00",
-    "sortFamily": "family_095"
+    "sortFamily": "family_095",
+    "sortFamilyRank": 0
   },
   {
     "id": "8141100",
@@ -91550,7 +91850,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8141100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:59.790171+00:00",
-    "sortFamily": "family_075"
+    "sortFamily": "family_074",
+    "sortFamilyRank": 3
   },
   {
     "id": "8200003",
@@ -91774,7 +92075,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:59.929231+00:00",
-    "sortFamily": "family_102"
+    "sortFamily": "family_102",
+    "sortFamilyRank": 0
   },
   {
     "id": "8143000",
@@ -92044,7 +92346,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8143000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.003647+00:00",
-    "sortFamily": "family_073"
+    "sortFamily": "family_042",
+    "sortFamilyRank": 5
   },
   {
     "id": "8150000",
@@ -92989,7 +93292,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400403",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.337940+00:00",
-    "sortFamily": "family_104"
+    "sortFamily": "family_104",
+    "sortFamilyRank": 4
   },
   {
     "id": "9400574",
@@ -93072,7 +93376,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400574",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.419857+00:00",
-    "sortFamily": "family_133"
+    "sortFamily": "family_133",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400579",
@@ -93177,7 +93482,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400579",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:00.452122+00:00"
+    "checkedAt": "2026-11-15T16:43:00.452122+00:00",
+    "sortFamily": "visual_020",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420513",
@@ -93351,7 +93658,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420513",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.561932+00:00",
-    "sortFamily": "family_084"
+    "sortFamily": "family_084",
+    "sortFamilyRank": 4
   },
   {
     "id": "9420543",
@@ -93398,7 +93706,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420543",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.645732+00:00",
-    "sortFamily": "family_134"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 6
   },
   {
     "id": "9420548",
@@ -93445,7 +93754,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420548",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.727115+00:00",
-    "sortFamily": "family_135"
+    "sortFamily": "family_135",
+    "sortFamilyRank": 4
   },
   {
     "id": "8105005",
@@ -93865,7 +94175,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8150301",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.879810+00:00",
-    "sortFamily": "family_095"
+    "sortFamily": "family_095",
+    "sortFamilyRank": 1
   },
   {
     "id": "8200004",
@@ -94083,7 +94394,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.949202+00:00",
-    "sortFamily": "family_102"
+    "sortFamily": "family_102",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400549",
@@ -94222,7 +94534,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400549",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:01.032335+00:00"
+    "checkedAt": "2026-11-15T16:43:01.032335+00:00",
+    "sortFamily": "progression_005",
+    "sortFamilyRank": 1
   },
   {
     "id": "8150101",
@@ -94793,7 +95107,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8150302",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:01.199141+00:00",
-    "sortFamily": "family_095"
+    "sortFamily": "family_095",
+    "sortFamilyRank": 2
   },
   {
     "id": "8300000",
@@ -94934,7 +95249,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8300002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:01.418919+00:00",
-    "sortFamily": "family_095"
+    "sortFamily": "family_095",
+    "sortFamilyRank": 3
   },
   {
     "id": "8300003",
@@ -94981,7 +95297,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8300003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:01.518023+00:00",
-    "sortFamily": "family_095"
+    "sortFamily": "family_095",
+    "sortFamilyRank": 4
   },
   {
     "id": "8150201",
@@ -95719,7 +96036,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8180000",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:01.655265+00:00"
+    "checkedAt": "2026-11-15T16:43:01.655265+00:00",
+    "sortFamily": "progression_002",
+    "sortFamilyRank": 0
   },
   {
     "id": "8180001",
@@ -96551,7 +96870,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8300004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:01.980171+00:00",
-    "sortFamily": "family_095"
+    "sortFamily": "family_095",
+    "sortFamilyRank": 5
   },
   {
     "id": "8830000",
@@ -97237,7 +97557,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420518",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:02.142262+00:00"
+    "checkedAt": "2026-11-15T16:43:02.142262+00:00",
+    "sortFamily": "family_147",
+    "sortFamilyRank": 1
   },
   {
     "id": "8200005",
@@ -97428,7 +97750,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200005",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:02.226671+00:00",
-    "sortFamily": "family_100"
+    "sortFamily": "family_100",
+    "sortFamilyRank": 2
   },
   {
     "id": "8300006",
@@ -98060,7 +98383,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8160000",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:02.422587+00:00"
+    "checkedAt": "2026-11-15T16:43:02.422587+00:00",
+    "sortFamily": "family_138",
+    "sortFamilyRank": 7
   },
   {
     "id": "8170000",
@@ -98389,7 +98714,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8170000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:02.486454+00:00",
-    "sortFamily": "visual_025"
+    "sortFamily": "visual_025",
+    "sortFamilyRank": 1
   },
   {
     "id": "8200006",
@@ -98592,7 +98918,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200006",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:02.548835+00:00",
-    "sortFamily": "family_100"
+    "sortFamily": "family_100",
+    "sortFamilyRank": 3
   },
   {
     "id": "8190002",
@@ -99194,7 +99521,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8190003",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:02.780020+00:00",
-    "sortFamily": "family_097"
+    "sortFamily": "family_097",
+    "sortFamilyRank": 0
   },
   {
     "id": "8190005",
@@ -100443,7 +100771,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420517",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:03.153165+00:00"
+    "checkedAt": "2026-11-15T16:43:03.153165+00:00",
+    "sortFamily": "family_138",
+    "sortFamilyRank": 6
   },
   {
     "id": "8190004",
@@ -100775,7 +101105,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8190004",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.186344+00:00",
-    "sortFamily": "family_097"
+    "sortFamily": "family_097",
+    "sortFamilyRank": 1
   },
   {
     "id": "8200007",
@@ -100975,7 +101306,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200007",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.260932+00:00",
-    "sortFamily": "family_102"
+    "sortFamily": "family_102",
+    "sortFamilyRank": 2
   },
   {
     "id": "9300028",
@@ -101041,7 +101373,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9300028",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.430353+00:00",
-    "sortFamily": "visual_025"
+    "sortFamily": "visual_025",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400255",
@@ -101209,7 +101542,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400255",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.469966+00:00",
-    "sortFamily": "family_123"
+    "sortFamily": "family_123",
+    "sortFamilyRank": 0
   },
   {
     "id": "9420519",
@@ -101367,7 +101701,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420519",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.507209+00:00",
-    "sortFamily": "family_147"
+    "sortFamily": "family_147",
+    "sortFamilyRank": 2
   },
   {
     "id": "8200008",
@@ -101609,7 +101944,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200008",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.580819+00:00",
-    "sortFamily": "family_102"
+    "sortFamily": "family_102",
+    "sortFamilyRank": 3
   },
   {
     "id": "8220003",
@@ -101865,7 +102201,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220003",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:03.737328+00:00"
+    "checkedAt": "2026-11-15T16:43:03.737328+00:00",
+    "sortFamily": "progression_002",
+    "sortFamilyRank": 1
   },
   {
     "id": "8300005",
@@ -102206,7 +102544,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400405",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.899112+00:00",
-    "sortFamily": "visual_018"
+    "sortFamily": "progression_003",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400582",
@@ -102349,7 +102688,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400582",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.051693+00:00",
-    "sortFamily": "visual_018"
+    "sortFamily": "visual_018",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400589",
@@ -102396,7 +102736,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400589",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.098692+00:00",
-    "sortFamily": "visual_020"
+    "sortFamily": "progression_001",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400590",
@@ -102448,7 +102789,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400590",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:04.131177+00:00"
+    "checkedAt": "2026-11-15T16:43:04.131177+00:00",
+    "sortFamily": "progression_001",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400591",
@@ -102507,7 +102850,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400591",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.214908+00:00",
-    "sortFamily": "visual_018"
+    "sortFamily": "visual_018",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400592",
@@ -102566,7 +102910,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400592",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.359709+00:00",
-    "sortFamily": "visual_020"
+    "sortFamily": "progression_001",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400593",
@@ -102619,7 +102964,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400593",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.412783+00:00",
-    "sortFamily": "family_104"
+    "sortFamily": "progression_001",
+    "sortFamilyRank": 0
   },
   {
     "id": "9500392",
@@ -103361,7 +103707,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200009",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.532144+00:00",
-    "sortFamily": "family_100"
+    "sortFamily": "family_100",
+    "sortFamilyRank": 4
   },
   {
     "id": "8220004",
@@ -103606,7 +103953,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220004",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:04.672559+00:00"
+    "checkedAt": "2026-11-15T16:43:04.672559+00:00",
+    "sortFamily": "family_151",
+    "sortFamilyRank": 3
   },
   {
     "id": "8200010",
@@ -103803,7 +104152,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200010",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.724041+00:00",
-    "sortFamily": "family_100"
+    "sortFamily": "family_100",
+    "sortFamilyRank": 5
   },
   {
     "id": "8500001",
@@ -103856,7 +104206,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8500001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.803948+00:00",
-    "sortFamily": "family_076"
+    "sortFamily": "family_076",
+    "sortFamilyRank": 0
   },
   {
     "id": "8500002",
@@ -104294,7 +104645,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8500002",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.846258+00:00",
-    "sortFamily": "family_076"
+    "sortFamily": "family_076",
+    "sortFamilyRank": 1
   },
   {
     "id": "8200011",
@@ -104530,7 +104882,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200011",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.990857+00:00",
-    "sortFamily": "family_102"
+    "sortFamily": "family_102",
+    "sortFamilyRank": 4
   },
   {
     "id": "9400121",
@@ -104720,7 +105073,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400121",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:05.043834+00:00"
+    "checkedAt": "2026-11-15T16:43:05.043834+00:00",
+    "sortFamily": "family_105",
+    "sortFamilyRank": 9
   },
   {
     "id": "9400407",
@@ -104771,7 +105126,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400407",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:05.123700+00:00",
-    "sortFamily": "family_141"
+    "sortFamily": "visual_023",
+    "sortFamilyRank": 1
   },
   {
     "id": "8200012",
@@ -105001,7 +105357,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8200012",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:05.172046+00:00",
-    "sortFamily": "family_102"
+    "sortFamily": "family_102",
+    "sortFamilyRank": 5
   },
   {
     "id": "8220005",
@@ -105209,7 +105566,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220005",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:05.308183+00:00"
+    "checkedAt": "2026-11-15T16:43:05.308183+00:00",
+    "sortFamily": "progression_005",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400253",
@@ -105394,7 +105753,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400253",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:05.355761+00:00",
-    "sortFamily": "family_123"
+    "sortFamily": "family_123",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400254",
@@ -105564,7 +105924,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400254",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:05.429528+00:00"
+    "checkedAt": "2026-11-15T16:43:05.429528+00:00",
+    "sortFamily": "family_125",
+    "sortFamilyRank": 0
   },
   {
     "id": "8888888",
@@ -106324,7 +106686,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420521",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:05.735175+00:00",
-    "sortFamily": "family_147"
+    "sortFamily": "family_147",
+    "sortFamilyRank": 3
   },
   {
     "id": "9420522",
@@ -106551,7 +106914,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420522",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:05.786986+00:00",
-    "sortFamily": "family_147"
+    "sortFamily": "family_147",
+    "sortFamilyRank": 4
   },
   {
     "id": "9420544",
@@ -106977,7 +107341,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420544",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:05.939666+00:00",
-    "sortFamily": "family_134"
+    "sortFamily": "family_136",
+    "sortFamilyRank": 7
   },
   {
     "id": "9420549",
@@ -107397,7 +107762,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9420549",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:05.992207+00:00",
-    "sortFamily": "family_135"
+    "sortFamily": "family_135",
+    "sortFamilyRank": 5
   },
   {
     "id": "8220006",
@@ -107653,7 +108019,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220006",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:06.038333+00:00"
+    "checkedAt": "2026-11-15T16:43:06.038333+00:00",
+    "sortFamily": "family_038",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400256",
@@ -107836,7 +108204,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400256",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.099698+00:00",
-    "sortFamily": "family_143"
+    "sortFamily": "family_143",
+    "sortFamilyRank": 0
   },
   {
     "id": "9400257",
@@ -108025,7 +108394,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400257",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.256882+00:00",
-    "sortFamily": "family_143"
+    "sortFamily": "family_143",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400258",
@@ -108204,7 +108574,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400258",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.315962+00:00",
-    "sortFamily": "family_143"
+    "sortFamily": "family_143",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400259",
@@ -108377,7 +108748,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400259",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.359695+00:00",
-    "sortFamily": "family_143"
+    "sortFamily": "family_143",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400260",
@@ -108559,7 +108931,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400260",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:06.409558+00:00"
+    "checkedAt": "2026-11-15T16:43:06.409558+00:00",
+    "sortFamily": "family_128",
+    "sortFamilyRank": 0
   },
   {
     "id": "9400287",
@@ -108661,7 +109035,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400287",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.672599+00:00",
-    "sortFamily": "family_122"
+    "sortFamily": "family_143",
+    "sortFamilyRank": 4
   },
   {
     "id": "9400112",
@@ -108720,7 +109095,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400112",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.733535+00:00",
-    "sortFamily": "family_107"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 6
   },
   {
     "id": "9400113",
@@ -108779,7 +109155,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400113",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.877360+00:00",
-    "sortFamily": "family_107"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 7
   },
   {
     "id": "8810000",
@@ -108830,7 +109207,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8810000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.931044+00:00",
-    "sortFamily": "family_098"
+    "sortFamily": "family_098",
+    "sortFamilyRank": 0
   },
   {
     "id": "8810001",
@@ -108881,7 +109259,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8810001",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:06.986229+00:00",
-    "sortFamily": "family_098"
+    "sortFamily": "family_098",
+    "sortFamilyRank": 1
   },
   {
     "id": "8810018",
@@ -109354,7 +109733,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8810018",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.049305+00:00",
-    "sortFamily": "family_098"
+    "sortFamily": "family_098",
+    "sortFamilyRank": 2
   },
   {
     "id": "8810118",
@@ -109414,7 +109794,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8810118",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.217143+00:00",
-    "sortFamily": "family_098"
+    "sortFamily": "family_098",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400288",
@@ -109517,7 +109898,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400288",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.242051+00:00",
-    "sortFamily": "family_122"
+    "sortFamily": "family_143",
+    "sortFamilyRank": 5
   },
   {
     "id": "8220013",
@@ -109565,7 +109947,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220013",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.292614+00:00",
-    "sortFamily": "family_125"
+    "sortFamily": "family_125",
+    "sortFamilyRank": 2
   },
   {
     "id": "8220014",
@@ -109613,7 +109996,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220014",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.376865+00:00",
-    "sortFamily": "family_125"
+    "sortFamily": "family_125",
+    "sortFamilyRank": 3
   },
   {
     "id": "8220015",
@@ -109668,7 +110052,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8220015",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.521980+00:00",
-    "sortFamily": "family_125"
+    "sortFamily": "family_125",
+    "sortFamilyRank": 4
   },
   {
     "id": "9400263",
@@ -109716,7 +110101,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400263",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.551723+00:00",
-    "sortFamily": "family_126"
+    "sortFamily": "family_123",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400264",
@@ -109764,7 +110150,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400264",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.609146+00:00",
-    "sortFamily": "family_126"
+    "sortFamily": "family_123",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400265",
@@ -109812,7 +110199,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400265",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.690284+00:00",
-    "sortFamily": "family_126"
+    "sortFamily": "family_123",
+    "sortFamilyRank": 4
   },
   {
     "id": "9400266",
@@ -110665,7 +111053,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400270",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.861495+00:00",
-    "sortFamily": "family_127"
+    "sortFamily": "family_128",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400293",
@@ -110713,7 +111102,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400293",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:07.911051+00:00",
-    "sortFamily": "family_127"
+    "sortFamily": "family_125",
+    "sortFamilyRank": 1
   },
   {
     "id": "9400300",
@@ -111047,7 +111437,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400300",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:43:07.998116+00:00"
+    "checkedAt": "2026-11-15T16:43:07.998116+00:00",
+    "sortFamily": "family_105",
+    "sortFamilyRank": 11
   },
   {
     "id": "9400376",
@@ -111094,7 +111486,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400376",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:08.157354+00:00",
-    "sortFamily": "family_128"
+    "sortFamily": "family_128",
+    "sortFamilyRank": 2
   },
   {
     "id": "9400296",
@@ -112135,7 +112528,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400289",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:08.833872+00:00",
-    "sortFamily": "family_128"
+    "sortFamily": "family_128",
+    "sortFamilyRank": 3
   },
   {
     "id": "9400408",
@@ -112187,7 +112581,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400408",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:08.835625+00:00",
-    "sortFamily": "family_141"
+    "sortFamily": "family_105",
+    "sortFamilyRank": 10
   },
   {
     "id": "9400409",
@@ -112534,6 +112929,7 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400409",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:08.948205+00:00",
-    "sortFamily": "family_141"
+    "sortFamily": "visual_023",
+    "sortFamilyRank": 3
   }
 ]

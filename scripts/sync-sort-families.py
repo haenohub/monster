@@ -9,18 +9,23 @@ if ids!={m['id'] for m in details}:raise ValueError('Gallery and detail rosters 
 details_by_id={m['id']:m for m in details}
 for monster in gallery:
  monster['regions']=details_by_id[monster['id']].get('regions',[])
-owners={};family_ids=set()
+owners={};progression_ranks={};family_ids=set()
 for family in families:
  if family['id'] in family_ids:raise ValueError('Duplicate family ID')
  family_ids.add(family['id'])
  if len(family['monsterIds'])<2:raise ValueError('Families need at least two monsters')
- for mid in family['monsterIds']:
+ order=family.get('order','region')
+ if order not in ['region','progression']:raise ValueError('Unknown family order: '+order)
+ for rank,mid in enumerate(family['monsterIds']):
   if mid not in ids:raise ValueError('Unknown monster ID: '+mid)
   if mid in owners:raise ValueError('Monster is assigned to two families: '+mid)
   owners[mid]=family['id']
+  if order=='progression':progression_ranks[mid]=rank
 for collection in [gallery,details]:
  for monster in collection:
   monster.pop('sortFamily',None)
+  monster.pop('sortFamilyRank',None)
   if monster['id'] in owners:monster['sortFamily']=owners[monster['id']]
+  if monster['id'] in progression_ranks:monster['sortFamilyRank']=progression_ranks[monster['id']]
 encoded=json.dumps(gallery,ensure_ascii=False,separators=(',',':')).replace('</','<\\/');p.write_text(html[:match.start(1)]+encoded+html[match.end(1):],encoding='utf-8');(ROOT/'data/monsters.json').write_text(json.dumps(details,ensure_ascii=False,indent=2),encoding='utf-8')
 print('Assigned',len(owners),'monsters to',len(families),'families;',len(ids)-len(owners),'single monsters.')
