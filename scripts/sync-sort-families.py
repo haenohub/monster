@@ -1,4 +1,4 @@
-"""Sync recommendation families and source regions used by gallery sorting."""
+"""Sync global/title-specific recommendation families and source regions."""
 from pathlib import Path
 import json,re
 ROOT=Path(__file__).resolve().parents[1]
@@ -21,11 +21,26 @@ for family in families:
   if mid in owners:raise ValueError('Monster is assigned to two families: '+mid)
   owners[mid]=family['id']
   if order=='progression':progression_ranks[mid]=rank
+title_families=json.loads((ROOT/'data/sort-title-families.json').read_text(encoding='utf-8'))
+title_owners={};title_family_ids=set()
+for family in title_families:
+ title=family['title'];key=(title,family['id'])
+ if not title or key in title_family_ids:raise ValueError('Invalid or duplicate title family')
+ title_family_ids.add(key)
+ if len(family['monsterIds'])<2:raise ValueError('Title families need at least two monsters')
+ for rank,mid in enumerate(family['monsterIds']):
+  if mid not in ids:raise ValueError('Unknown title-family monster: '+mid)
+  if title not in details_by_id[mid]['titles']:raise ValueError('Monster lacks title: '+mid+' / '+title)
+  assigned=title_owners.setdefault(mid,{})
+  if title in assigned:raise ValueError('Monster is assigned to two families within a title: '+mid)
+  assigned[title]={'id':family['id'],'rank':rank}
 for collection in [gallery,details]:
  for monster in collection:
   monster.pop('sortFamily',None)
   monster.pop('sortFamilyRank',None)
+  monster.pop('sortTitleFamilies',None)
   if monster['id'] in owners:monster['sortFamily']=owners[monster['id']]
   if monster['id'] in progression_ranks:monster['sortFamilyRank']=progression_ranks[monster['id']]
+  if monster['id'] in title_owners:monster['sortTitleFamilies']=title_owners[monster['id']]
 encoded=json.dumps(gallery,ensure_ascii=False,separators=(',',':')).replace('</','<\\/');p.write_text(html[:match.start(1)]+encoded+html[match.end(1):],encoding='utf-8');(ROOT/'data/monsters.json').write_text(json.dumps(details,ensure_ascii=False,indent=2),encoding='utf-8')
-print('Assigned',len(owners),'monsters to',len(families),'families;',len(ids)-len(owners),'single monsters.')
+print('Assigned',len(owners),'monsters to',len(families),'families;',len(ids)-len(owners),'single monsters;',len(title_families),'title-specific families.')

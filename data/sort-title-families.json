@@ -1,0 +1,11 @@
+[
+  {
+    "id": "armor_human_warriors",
+    "title": "갑옷",
+    "name": "갑옷을 입은 사람",
+    "monsterIds": [
+      "9400581",
+      "9400405"
+    ]
+  }
+]

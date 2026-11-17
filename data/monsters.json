@@ -79491,7 +79491,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8130100",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:54.964479+00:00",
-    "sortFamily": "family_131"
+    "sortFamily": "family_131",
+    "sortFamilyRank": 0
   },
   {
     "id": "8140000",
@@ -80992,8 +80993,14 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/9400581",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:55.783559+00:00",
-    "sortFamily": "visual_018",
-    "sortFamilyRank": 0
+    "sortFamily": "visual_020",
+    "sortFamilyRank": 1,
+    "sortTitleFamilies": {
+      "갑옷": {
+        "id": "armor_human_warriors",
+        "rank": 0
+      }
+    }
   },
   {
     "id": "9420542",
@@ -87170,7 +87177,7 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.163055+00:00",
     "sortFamily": "visual_020",
-    "sortFamilyRank": 1
+    "sortFamilyRank": 2
   },
   {
     "id": "9400578",
@@ -87269,7 +87276,7 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:42:58.166430+00:00",
     "sortFamily": "visual_020",
-    "sortFamilyRank": 2
+    "sortFamilyRank": 3
   },
   {
     "id": "9420515",
@@ -88404,7 +88411,9 @@
     ],
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8140600",
     "sourceStatus": "available",
-    "checkedAt": "2026-11-15T16:42:58.508795+00:00"
+    "checkedAt": "2026-11-15T16:42:58.508795+00:00",
+    "sortFamily": "family_097",
+    "sortFamilyRank": 0
   },
   {
     "id": "8105003",
@@ -92607,7 +92616,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8150000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.086957+00:00",
-    "sortFamily": "family_131"
+    "sortFamily": "family_131",
+    "sortFamilyRank": 1
   },
   {
     "id": "8150100",
@@ -93480,7 +93490,7 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:00.452122+00:00",
     "sortFamily": "visual_020",
-    "sortFamilyRank": 3
+    "sortFamilyRank": 4
   },
   {
     "id": "9420513",
@@ -97371,7 +97381,8 @@
     "sourceUrl": "https://www.xn--o80b01o9mlw3kdzc.com/monster_detail/8830000",
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:02.080546+00:00",
-    "sortFamily": "family_131"
+    "sortFamily": "family_131",
+    "sortFamilyRank": 2
   },
   {
     "id": "9420518",
@@ -99518,7 +99529,7 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:02.780020+00:00",
     "sortFamily": "family_097",
-    "sortFamilyRank": 0
+    "sortFamilyRank": 1
   },
   {
     "id": "8190005",
@@ -101102,7 +101113,7 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.186344+00:00",
     "sortFamily": "family_097",
-    "sortFamilyRank": 1
+    "sortFamilyRank": 2
   },
   {
     "id": "8200007",
@@ -102541,7 +102552,13 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:03.899112+00:00",
     "sortFamily": "progression_003",
-    "sortFamilyRank": 1
+    "sortFamilyRank": 1,
+    "sortTitleFamilies": {
+      "갑옷": {
+        "id": "armor_human_warriors",
+        "rank": 1
+      }
+    }
   },
   {
     "id": "9400582",
@@ -102685,7 +102702,7 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.051693+00:00",
     "sortFamily": "visual_018",
-    "sortFamilyRank": 1
+    "sortFamilyRank": 0
   },
   {
     "id": "9400589",
@@ -102847,7 +102864,7 @@
     "sourceStatus": "available",
     "checkedAt": "2026-11-15T16:43:04.214908+00:00",
     "sortFamily": "visual_018",
-    "sortFamilyRank": 2
+    "sortFamilyRank": 1
   },
   {
     "id": "9400592",

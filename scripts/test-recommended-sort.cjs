@@ -5,6 +5,7 @@ const html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 const monsters=JSON.parse(html.match(/<script id="monster-data" type="application\/json">(.*?)<\/script>/s)[1]);
 const details=JSON.parse(fs.readFileSync(path.join(root,'data/monsters.json'),'utf8'));
 const families=JSON.parse(fs.readFileSync(path.join(root,'data/sort-families.json'),'utf8'));
+const titleFamilies=JSON.parse(fs.readFileSync(path.join(root,'data/sort-title-families.json'),'utf8'));
 // Fresh visits use recommendations; an explicitly selected mode survives detail-page return.
 const initialSort=html.match(/^let sortMode=.*;$/m)[0];
 for(const [savedListState,expected] of [[null,'recommended'],[{},'recommended'],[{sortMode:'unknown'},'recommended'],[{sortMode:'size'},'size'],[{sortMode:'level'},'level'],[{sortMode:'recommended'},'recommended']]){
@@ -17,14 +18,20 @@ const area=m=>m.imageWidth*m.imageHeight;
 const levelOrder=(a,b)=>a.level-b.level||area(a)-area(b)||Number(a.id)-Number(b.id);
 const sizeOrder=(a,b)=>area(a)-area(b)||a.level-b.level||Number(a.id)-Number(b.id);
 const anchor=ms=>[...ms].sort(levelOrder)[0];
-const family=m=>m.sortFamily||'single:'+m.id;
+const family=(m,title='')=>m.sortTitleFamilies?.[title]?'title:'+title+':'+m.sortTitleFamilies[title].id:m.sortFamily||'single:'+m.id;
 function blocks(list,key){const result=[],seen=new Set();for(const m of list){const k=key(m);if(result.at(-1)?.key===k)result.at(-1).members.push(m);else{assert.ok(!seen.has(k),'Split block: '+k);seen.add(k);result.push({key:k,members:[m]});}}return result;}
 function sorted(ms,order){for(let i=1;i<ms.length;i++)assert.ok(order(ms[i-1],ms[i])<=0,'Unexpected order: '+ms[i-1].name+' / '+ms[i].name);}
-function check(input){
- const output=Array.from(context.sortForDisplay([...input]));
+function check(input,title=''){
+ const output=Array.from(context.sortForDisplay([...input],title));
  assert.deepEqual(output.map(m=>m.id).sort(),input.map(m=>m.id).sort());
- const familyBlocks=blocks(output,family);sorted(familyBlocks.map(b=>anchor(b.members)),levelOrder);
+ const familyBlocks=blocks(output,m=>family(m,title));sorted(familyBlocks.map(b=>anchor(b.members)),levelOrder);
  for(const block of familyBlocks){
+  if(block.members[0].sortTitleFamilies?.[title]){
+   const id=block.members[0].sortTitleFamilies[title].id;
+   assert.ok(block.members.every(m=>m.sortTitleFamilies?.[title]?.id===id));
+   sorted(block.members,(a,b)=>a.sortTitleFamilies[title].rank-b.sortTitleFamilies[title].rank);
+   continue;
+  }
   if(block.members.some(m=>Number.isInteger(m.sortFamilyRank))){
    assert.ok(block.members.every(m=>Number.isInteger(m.sortFamilyRank)),'Incomplete progression metadata');
    sorted(block.members,(a,b)=>a.sortFamilyRank-b.sortFamilyRank);
@@ -56,15 +63,28 @@ for(const f of families){
  }
 }
 for(const m of monsters)if(!owners.has(m.id)){assert.equal(m.sortFamily,undefined);assert.equal(m.sortFamilyRank,undefined);}
+const expectedTitleMetadata=new Map();
+for(const f of titleFamilies){
+ assert.ok(f.monsterIds.length>=2);
+ for(const [rank,id] of f.monsterIds.entries()){
+  const expected={id:f.id,rank};
+  assert.ok(!expectedTitleMetadata.get(id)?.[f.title],'Duplicate membership within title');
+  const metadata=expectedTitleMetadata.get(id)||{};metadata[f.title]=expected;expectedTitleMetadata.set(id,metadata);
+  for(const m of [detailMap.get(id),galleryMap.get(id)]){
+   assert.ok(m.titles.includes(f.title));assert.deepEqual(m.sortTitleFamilies?.[f.title],expected);
+  }
+ }
+}
+for(const m of monsters)assert.deepEqual(m.sortTitleFamilies,expectedTitleMetadata.get(m.id));
 const pair=['8170000','9300028'];assert.equal(detailMap.get(pair[0]).sortFamily,detailMap.get(pair[1]).sortFamily);
 let result=check(monsters);const positions=pair.map(id=>result.findIndex(m=>m.id===id));assert.equal(Math.abs(positions[0]-positions[1]),1);
 const titles=new Set(monsters.flatMap(m=>m.titles));assert.equal(titles.size,81);
-for(const title of titles)check(monsters.filter(m=>m.titles.includes(title)));
+for(const title of titles)check(monsters.filter(m=>m.titles.includes(title)),title);
 // Exact user sequences must survive title filtering, search and missing earlier members.
 function sequence(title,ids){
- const list=check(monsters.filter(m=>!title||m.titles.includes(title)));
+ const list=check(monsters.filter(m=>!title||m.titles.includes(title)),title);
  const selected=ids.map(id=>detailMap.get(id));assert.ok(selected.every(Boolean));
- assert.equal(new Set(selected.map(m=>m.sortFamily)).size,1,'Requested family membership');
+ assert.equal(new Set(selected.map(m=>family(m,title))).size,1,'Requested family membership');
  const positions=ids.map(id=>list.findIndex(m=>m.id===id));
  assert.ok(positions.every((p,i)=>p>=0&&(!i||p===positions[i-1]+1)),'Requested progression: '+ids.join(', '));
  return ids;
@@ -73,7 +93,13 @@ const snakes=sequence('파충류',['2130103','4230504','4230503','2100105','1150
 sequence('뱀',snakes);
 sequence('사람',['9400100','9400101','9400102','9400103','9400110','9400111','9400112','9400113','9400120','9400121','9400408','9400300']);
 sequence('사람',['9400593','9400589','9400592','9400590']);
-sequence('사람',['9400576','9400577','9400579']);
+sequence('사람',['9400576','9400581','9400577','9400579']);
+sequence('갑옷',['9400581','9400405']);
+sequence('악마',['8130100','8150000','8830000']);
+sequence('언데드',['8140600','8190003','8190004']);
+assert.notEqual(detailMap.get('9400581').sortFamily,detailMap.get('9400405').sortFamily);
+assert.equal(family(detailMap.get('9400581'),'갑옷'),family(detailMap.get('9400405'),'갑옷'));
+const stormOnly=check(monsters.filter(m=>m.id==='9400581'),'갑옷');assert.deepEqual(stormOnly.map(m=>m.id),['9400581']);
 sequence('사람',['9400260','9400270','9400376','9400289']);
 sequence('드래곤',['8180000','8220003']);
 const wraiths=sequence('유령',['3230101','9400003','4230102','5090000','9400580']);
@@ -112,4 +138,4 @@ const staged=[{...synthetic(1,['BOSS'],100,180),sortFamilyRank:0},{...synthetic(
 assert.deepEqual(check(staged).map(m=>m.id),['1','2','3']);
 assert.deepEqual(check(staged.slice(1)).map(m=>m.id),['2','3']);
 for(const mode of ['size','level']){context.sortMode=mode;const list=Array.from(context.sortForDisplay([...monsters]));sorted(list,mode==='size'?sizeOrder:(a,b)=>a.level-b.level||Number(a.id)-Number(b.id));}
-console.log('PASS: recommendation default and return preferences, exact five-wraith order with no clock monsters mixed in, separated visual lineages, 567 monsters and 81 title views, all earlier snake/person/dragon examples, filtered progression and existing size/level modes.');
+console.log('PASS: title-specific armor/person groupings, exact Balrog and bone-monster progressions, 567 monsters across 81 title views, earlier wraith/snake/person/dragon sequences, partial filtering, recommendation default and size/level modes.');
