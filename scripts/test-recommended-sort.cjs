@@ -5,6 +5,11 @@ const html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 const monsters=JSON.parse(html.match(/<script id="monster-data" type="application\/json">(.*?)<\/script>/s)[1]);
 const details=JSON.parse(fs.readFileSync(path.join(root,'data/monsters.json'),'utf8'));
 const families=JSON.parse(fs.readFileSync(path.join(root,'data/sort-families.json'),'utf8'));
+// Fresh visits use recommendations; an explicitly selected mode survives detail-page return.
+const initialSort=html.match(/^let sortMode=.*;$/m)[0];
+for(const [savedListState,expected] of [[null,'recommended'],[{},'recommended'],[{sortMode:'unknown'},'recommended'],[{sortMode:'size'},'size'],[{sortMode:'level'},'level'],[{sortMode:'recommended'},'recommended']]){
+ assert.equal(vm.runInNewContext(initialSort+'\nsortMode;', {savedListState}),expected);
+}
 const context=vm.createContext({sortMode:'recommended'});
 const helpers=html.slice(html.indexOf('function compareMonsters('),html.indexOf('const monstersById='));
 vm.runInContext(helpers,context);
@@ -71,6 +76,15 @@ sequence('사람',['9400593','9400589','9400592','9400590']);
 sequence('사람',['9400576','9400577','9400579']);
 sequence('사람',['9400260','9400270','9400376','9400289']);
 sequence('드래곤',['8180000','8220003']);
+const wraiths=sequence('유령',['3230101','9400003','4230102','5090000','9400580']);
+sequence('',wraiths);
+assert.deepEqual(families.find(f=>f.id===detailMap.get(wraiths[0]).sortFamily).monsterIds,wraiths,'Wraith family contains only its five visually related forms');
+sequence('유령',['3230306','4230114','4230115']);
+for(const names of [
+ ['무루','무루파','무루피아','무루무루','무루쿤'],['리티','다크 리티'],['흰 모래토끼','갈색 모래토끼'],
+ ['주니어 루이넬','루이넬','엘리쟈'],['로이드','네오 휴로이드'],['로보토이','마스터 로보'],
+ ['AF형 안드로이드','고장난 DF형 안드로이드'],['네펜데스','다크 네펜데스','마이티 메이플 이터']
+])sequence('',names.map(name=>monsters.find(m=>m.name===name).id));
 sequence('', ['9500390','9500391','9500392']);
 sequence('', ['9400263','9400264','9400265']);
 sequence('', ['4110302','5110300']);
@@ -98,4 +112,4 @@ const staged=[{...synthetic(1,['BOSS'],100,180),sortFamilyRank:0},{...synthetic(
 assert.deepEqual(check(staged).map(m=>m.id),['1','2','3']);
 assert.deepEqual(check(staged.slice(1)).map(m=>m.id),['2','3']);
 for(const mode of ['size','level']){context.sortMode=mode;const list=Array.from(context.sortForDisplay([...monsters]));sorted(list,mode==='size'?sizeOrder:(a,b)=>a.level-b.level||Number(a.id)-Number(b.id));}
-console.log('PASS: 567 monsters, 81 title views, all explicit snake/person/dragon sequences, seven earlier adjacency examples, growth/upgrade/boss progression, filtered sequence stability, region fallback, BOSS exclusion, multi-region overlap, size/level modes and Thanatos/Eregos adjacency.');
+console.log('PASS: recommendation default and return preferences, exact five-wraith order with no clock monsters mixed in, separated visual lineages, 567 monsters and 81 title views, all earlier snake/person/dragon examples, filtered progression and existing size/level modes.');
